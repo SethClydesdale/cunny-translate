@@ -51,7 +51,7 @@ If you have any suggestions, feedback, questions, or bugs to report, feel free t
 Cunny Translate was made possible thanks to...
 - [morsecode.world](https://morsecode.world/international/morse2.html) for their comprehensive Morse Code resources.
 - [nulla2011](https://github.com/nulla2011) for the [Blue Archive Logo Generator](https://github.com/nulla2011/bluearchive-logo).
-- [Blue Archive Wiki](https://bluearchive.fandom.com/wiki/Arona/Gallery) and Blue Archive itself for the imagery and audio used in this project.
+- [Blue Archive Wiki](https://bluearchive.fandom.com/wiki/Arona/Gallery) and Blue Archive itself for the imagery used in this project.
 - [BlueSechi](https://www.youtube.com/watch?v=T9F1Wk8DQdg) for the dancing Arisu.
 - [CryptoJS](https://github.com/brix/crypto-js) for the methods used to encrypt messages with a password.
 - Google for [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) and [DAJI](https://x.com/daji_nhnyk/status/1840259471819280870) for letting me know the font that Blue Archive uses.

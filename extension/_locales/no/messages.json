@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Oversetter"
+  },
+  "ext_description":{
+    "message":"Den søte og morsomme oversetteren som lar deg enkelt oversette Cunny Code mens du surfer på nettet."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Utgang"
+  },
+  "label_password":{
+    "message":"Passord"
+  },
+  "btn_encode":{
+    "message":"Kode inn"
+  },
+  "btn_decode":{
+    "message":"Dekod"
+  },
+  "btn_swap":{
+    "message":"Skift inn- og utdata"
+  },
+  "btn_copy":{
+    "message":"Kopier"
+  },
+  "btn_copy_success":{
+    "message":"Kopiert!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiering mislyktes!"
+  },
+  "error_title":{
+    "message":"Feil"
+  },
+  "error_body":{
+    "message":"Følgende kunne ikke kodes."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Utvidelsesalternativer"
+  },
+  "footer_donate":{
+    "message":"Doner"
+  },
+  "title_options":{
+    "message":"Cunny oversettelsesalternativer"
+  },
+  "label_auto_translate":{
+    "message":"Automatisk oversettelse:"
+  },
+  "desc_auto_translate":{
+    "message":"Koder eller dekoder automatisk Cunny Code når tekst skrives inn i inndatafeltet."
+  },
+  "label_keep_password_state":{
+    "message":"Husk passordstatus:"
+  },
+  "desc_keep_password_state":{
+    "message":"Holder avkrysningsboksen for passord avkrysset eller umerket avhengig av dine preferanser."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Hvis den er deaktivert, er passordavmerkingsboksen som standard av hver gang du åpner popup-vinduet.)"
+  },
+  "label_save_password":{
+    "message":"Lagre passord:"
+  },
+  "desc_save_password":{
+    "message":"Lagrer det siste passordet ditt slik at du ikke trenger å skrive det inn igjen når du krypterer eller dekrypterer."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Det lagrede passordet slettes når dette alternativet deaktiveres.)"
+  },
+  "btn_reset":{
+    "message":"Tilbakestill"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Hjemmeside"
+  },
+  "arona_dialogue_1":{
+    "message":"Hei, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Du kan endre alternativene for Cunny Oversetter på denne siden."
+  },
+  "label_auto_copy":{
+    "message":"Autokopiering:"
+  },
+  "desc_auto_copy":{
+    "message":"Kopier og lim inn valgt tekst automatisk i inntastingsfeltet når du åpner popup-vinduet."
+  },
+  "label_context_menu":{
+    "message":"Vis i kontekstmenyen:"
+  },
+  "desc_context_menu":{
+    "message":"Viser Cunny Oversetter i kontekstmenyen hver gang du høyreklikker mens tekst er valgt."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Endring av dette alternativet vil laste utvidelsen på nytt og lukke denne siden midlertidig.)"
+  },
+  "reset_prompt":{
+    "message":"Dette vil tilbakestille alternativene til standardinnstillingene og laste utvidelsen på nytt. Vil du fortsette?"
+  }
+}

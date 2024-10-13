@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Fordító"
+  },
+  "ext_description":{
+    "message":"Az aranyos és vicces fordító, amellyel könnyedén lefordíthatja a Cunny Code-ot, miközben böngészik az interneten."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Kimenet"
+  },
+  "label_password":{
+    "message":"Jelszó"
+  },
+  "btn_encode":{
+    "message":"Kódolás"
+  },
+  "btn_decode":{
+    "message":"Dekódolás"
+  },
+  "btn_swap":{
+    "message":"Cserélje fel a bemenetet és a kimenetet"
+  },
+  "btn_copy":{
+    "message":"Másolás"
+  },
+  "btn_copy_success":{
+    "message":"Másolva!"
+  },
+  "btn_copy_fail":{
+    "message":"A másolás nem sikerült!"
+  },
+  "error_title":{
+    "message":"Hiba"
+  },
+  "error_body":{
+    "message":"A következőket nem sikerült kódolni."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Bővítmény beállításai"
+  },
+  "footer_donate":{
+    "message":"Adományozás"
+  },
+  "title_options":{
+    "message":"Cunny Fordítási lehetőségek"
+  },
+  "label_auto_translate":{
+    "message":"Automatikus fordítás:"
+  },
+  "desc_auto_translate":{
+    "message":"Automatikusan kódolja vagy dekódolja a Cunny Code-ot, amikor szöveg kerül a beviteli mezőbe."
+  },
+  "label_keep_password_state":{
+    "message":"Ne felejtse el a jelszó állapotát:"
+  },
+  "desc_keep_password_state":{
+    "message":"A jelszó jelölőnégyzetet bejelölve vagy kipipálva tartja, az Ön preferenciáitól függően."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ha le van tiltva, a jelszó jelölőnégyzet alapértelmezés szerint ki van kapcsolva minden alkalommal, amikor megnyitja az előugró ablakot.)"
+  },
+  "label_save_password":{
+    "message":"Jelszó mentése:"
+  },
+  "desc_save_password":{
+    "message":"Elmenti a legutóbbi jelszavát, hogy ne kelljen újra begépelnie titkosításkor vagy visszafejtéskor."
+  },
+  "desc_save_password_subtext":{
+    "message":"(A mentett jelszó az opció letiltásakor törlődik.)"
+  },
+  "btn_reset":{
+    "message":"Reset"
+  },
+  "link_homepage":{
+    "message":"Cunny Code kezdőlapja"
+  },
+  "arona_dialogue_1":{
+    "message":"Helló, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"A Cunny Fordító beállításait ezen az oldalon módosíthatja."
+  },
+  "label_auto_copy":{
+    "message":"Automatikus másolás:"
+  },
+  "desc_auto_copy":{
+    "message":"A kiválasztott szöveg automatikus másolása és beillesztése a beviteli mezőbe az előugró ablak megnyitásakor."
+  },
+  "label_context_menu":{
+    "message":"Megjelenítés a helyi menüben:"
+  },
+  "desc_context_menu":{
+    "message":"Megjeleníti a Cunny Fordító-t a helyi menüben, amikor jobb gombbal kattint, miközben szöveg ki van jelölve."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(A beállítás módosítása újra betölti a bővítményt, és ideiglenesen bezárja ezt az oldalt.)"
+  },
+  "reset_prompt":{
+    "message":"Ez visszaállítja a beállításokat az alapértelmezett értékekre, és újratölti a bővítményt. Folytatja?"
+  }
+}

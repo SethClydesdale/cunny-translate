@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Übersetzer"
+  },
+  "ext_description":{
+    "message":"Der süße und lustige Übersetzer, mit dem Sie Cunny Code ganz einfach übersetzen können, während Sie im Internet surfen."
+  },
+  "placeholder_input":{
+    "message":"Eingabe"
+  },
+  "placeholder_output":{
+    "message":"Ausgabe"
+  },
+  "label_password":{
+    "message":"Passwort"
+  },
+  "btn_encode":{
+    "message":"Kodieren"
+  },
+  "btn_decode":{
+    "message":"Dekodieren"
+  },
+  "btn_swap":{
+    "message":"Eingabe und Ausgabe vertauschen"
+  },
+  "btn_copy":{
+    "message":"Kopieren"
+  },
+  "btn_copy_success":{
+    "message":"Kopiert!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopieren fehlgeschlagen!"
+  },
+  "error_title":{
+    "message":"Fehler"
+  },
+  "error_body":{
+    "message":"Folgendes konnte nicht kodiert werden."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Erweiterungsoptionen"
+  },
+  "footer_donate":{
+    "message":"Spenden"
+  },
+  "title_options":{
+    "message":"Cunny Übersetzungsoptionen"
+  },
+  "label_auto_translate":{
+    "message":"Automatische Übersetzung:"
+  },
+  "desc_auto_translate":{
+    "message":"Kodiert oder dekodiert Cunny Code automatisch, wenn Text in das Eingabefeld eingegeben wird."
+  },
+  "label_keep_password_state":{
+    "message":"Status des Passworts merken:"
+  },
+  "desc_keep_password_state":{
+    "message":"Lässt das Kontrollkästchen für das Passwort aktiviert oder deaktiviert, je nach Wunsch."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Wenn deaktiviert, ist das Kontrollkästchen für das Passwort standardmäßig deaktiviert, wenn Sie das Popup öffnen.)"
+  },
+  "label_save_password":{
+    "message":"Passwort speichern:"
+  },
+  "desc_save_password":{
+    "message":"Speichert Ihr letztes Passwort, sodass Sie es beim Verschlüsseln oder Entschlüsseln nicht erneut eingeben müssen."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Das gespeicherte Passwort wird gelöscht, wenn diese Option deaktiviert wird.)"
+  },
+  "btn_reset":{
+    "message":"Zurücksetzen"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Homepage"
+  },
+  "arona_dialogue_1":{
+    "message":"Hallo, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Sie können die Optionen für Cunny Übersetzer auf dieser Seite ändern."
+  },
+  "label_auto_copy":{
+     "message":"Automatisch kopieren:"
+  },
+  "desc_auto_copy":{
+     "message":"Ausgewählten Text automatisch kopieren und in das Eingabefeld einfügen, wenn Sie das Popup öffnen."
+  },
+  "label_context_menu":{
+     "message":"Im Kontextmenü anzeigen:"
+  },
+  "desc_context_menu":{
+     "message":"Zeigt Cunny Übersetzer im Kontextmenü an, wenn Sie mit der rechten Maustaste klicken, während Text ausgewählt ist."
+  },
+  "desc_context_menu_subtext":{
+     "message":"(Wenn Sie diese Option ändern, wird die Erweiterung neu geladen und diese Seite vorübergehend geschlossen.)"
+  },
+  "reset_prompt":{
+     "message":"Dadurch werden die Optionen auf ihre Standardwerte zurückgesetzt und die Erweiterung neu geladen. Möchten Sie fortfahren?"
+  }
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="resources/styles/main.css">
+  </head>
+  <body>
+    <div id="popup_container" class="center">
+      <div id="encoder" class="menu">
+        <img id="popup_logo" src="resources/images/popup-logo.png" alt="Cunny Translate">
+        
+        <textarea id="input" placeholder="Input"></textarea>
+        
+        <div id="password_field" class="columns-2">
+          <input id="enable_password" type="checkbox" class="input_hidden"><span id="checkbox" tabindex="0" class="pseudo_checkbox"></span><label for="enable_password" class="checkbox_label" id="label_password">Password</label>
+          <input id="password" type="text" class="checkbox_input">
+        </div>
+
+        <div id="buttons" class="center">
+          <button id="encode"><i>Encode</i></button>
+          <button id="swap" title="Swap the input and output"><i class="fa">&#xf021;</i></button>
+          <button id="decode"><i>Decode</i></button>
+        </div>
+
+        <div id="error" style="display:none;">
+          <h3 id="error_title">Error</h3>
+          <strong id="error_body">The following could not be encoded.</strong><br>
+          <div id="error_list" class="overflow-box"></div>
+          <a href="#close" id="close_button" class="close-button"><i class="fa">&#xf00d;</i></a>
+        </div>
+
+        <textarea id="output" placeholder="Output" readonly></textarea>
+        
+        <div class="center">
+          <button id="copy"><i>Copy</i></button>
+        </div>
+      </div>
+    </div>
+    
+    <footer>
+      <ul class="clear">
+        <li><a id="footer_website" href="https://sethclydesdale.github.io/cunny-code/code/?source=cunny_translate" target="_blank">Cunny Code</a></li>
+        <li><a id="footer_options" href="options.html" target="_blank">Extension Options</a></li>
+        <li><a id="footer_donate" href="https://sethclydesdale.github.io/cunny-code/donate/?source=cunny_translate" target="_blank">Donate</a></li>
+      </ul>
+    </footer>
+    
+    <script src="resources/scripts/aes.js"></script>
+    <script src="resources/scripts/popup.js"></script>
+  </body>
+</html>

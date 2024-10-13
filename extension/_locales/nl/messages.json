@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Translate"
+  },
+  "ext_description":{
+    "message":"De schattige en grappige vertaler waarmee je Cunny Code eenvoudig kunt vertalen terwijl je op het web surft."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Wachtwoord"
+  },
+  "btn_encode":{
+    "message":"Coderen"
+  },
+  "btn_decode":{
+    "message":"Decoderen"
+  },
+  "btn_swap":{
+    "message":"Verwissel de input en output"
+  },
+  "btn_copy":{
+    "message":"Kopiëren"
+  },
+  "btn_copy_success":{
+    "message":"Gekopieerd!"
+  },
+  "btn_copy_fail":{
+    "message":"Gekopieerd mislukt!"
+  },
+  "error_title":{
+    "message":"Fout"
+  },
+  "error_body":{
+    "message":"Het volgende kon niet worden gecodeerd."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Extensie-opties"
+  },
+  "footer_donate":{
+    "message":"Doneren"
+  },
+  "title_options":{
+    "message":"Cunny Translate-opties"
+  },
+  "label_auto_translate":{
+    "message":"Automatisch vertalen:"
+  },
+  "desc_auto_translate":{
+    "message":"Codeert of decodeert automatisch Cunny Code wanneer tekst in het invoerveld wordt ingevoerd."
+  },
+  "label_keep_password_state":{
+    "message":"Wachtwoordstatus onthouden:"
+  },
+  "desc_keep_password_state":{
+    "message":"Houdt het wachtwoordvakje aangevinkt of niet aangevinkt, afhankelijk van uw voorkeur."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Als uitgeschakeld, wordt het wachtwoordvakje standaard uitgeschakeld telkens wanneer u de pop-up opent.)"
+  },
+  "label_save_password":{
+    "message":"Wachtwoord opslaan:"
+  },
+  "desc_save_password":{
+    "message":"Slaat uw meest recente wachtwoord op, zodat u het niet opnieuw hoeft in te voeren bij het versleutelen of ontsleutelen."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Het opgeslagen wachtwoord wordt verwijderd wanneer u deze optie uitschakelt.)"
+  },
+  "btn_reset":{
+    "message":"Reset"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Homepage"
+  },
+  "arona_dialogue_1":{
+    "message":"Hallo, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"U kunt de opties voor Cunny Translate op deze pagina wijzigen."
+  },
+  "label_auto_copy":{
+    "message":"Automatisch kopiëren:"
+  },
+  "desc_auto_copy":{
+    "message":"Kopieer en plak automatisch geselecteerde tekst in het invoerveld wanneer u de pop-up opent."
+  },
+  "label_context_menu":{
+    "message":"Toon in contextmenu:"
+  },
+  "desc_context_menu":{
+    "message":"Toont Cunny Translate in het contextmenu wanneer u met de rechtermuisknop klikt terwijl de tekst is geselecteerd."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Als u deze optie wijzigt, wordt de extensie opnieuw geladen en wordt deze pagina tijdelijk gesloten.)"
+  },
+  "reset_prompt":{
+    "message":"Hiermee worden de opties teruggezet naar de standaardinstellingen en wordt de extensie opnieuw geladen. Wilt u doorgaan?"
+  }
+}

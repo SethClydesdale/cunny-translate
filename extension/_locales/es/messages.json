@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Traductor de Cunny"
+  },
+  "ext_description":{
+    "message":"El traductor simpático y divertido que te permite traducir fácilmente Cunny Code mientras navegas por la web."
+  },
+  "placeholder_input":{
+    "message":"Entrada"
+  },
+  "placeholder_output":{
+    "message":"Salida"
+  },
+  "label_password":{
+    "message":"Contraseña"
+  },
+  "btn_encode":{
+    "message":"Codificar"
+  },
+  "btn_decode":{
+    "message":"Descodificar"
+  },
+  "btn_swap":{
+    "message":"Intercambiar la entrada y la salida"
+  },
+  "btn_copy":{
+    "message":"Copiar"
+  },
+  "btn_copy_success":{
+    "message":"¡Copiado!"
+  },
+  "btn_copy_fail":{
+    "message":"¡Copia fallida!"
+  },
+  "error_title":{
+    "message":"Error"
+  },
+  "error_body":{
+    "message":"No se pudo codificar lo siguiente."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Opciones de extensión"
+  },
+  "footer_donate":{
+    "message":"Donar"
+  },
+  "title_options":{
+    "message":"Opciones de Traductor de Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Traducir automáticamente:"
+  },
+  "desc_auto_translate":{
+    "message":"Codifica o decodifica automáticamente el código Cunny cuando se ingresa texto en el campo de entrada."
+  },
+  "label_keep_password_state":{
+    "message":"Recordar estado de contraseña:"
+  },
+  "desc_keep_password_state":{
+    "message":"Mantiene la casilla de verificación de contraseña marcada o desmarcada según su preferencia."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Si está deshabilitada, la casilla de verificación de contraseña se desactiva de manera predeterminada cada vez que abre la ventana emergente.)"
+  },
+  "label_save_password":{
+    "message":"Guardar contraseña:"
+  },
+  "desc_save_password":{
+    "message":"Guarda tu contraseña más reciente para que no tengas que escribirla de nuevo al cifrar o descifrar."
+  },
+  "desc_save_password_subtext":{
+    "message":"(La contraseña guardada se elimina al deshabilitar esta opción.)"
+  },
+  "btn_reset":{
+    "message":"Restablecer"
+  },
+  "link_homepage":{
+    "message":"Página de inicio de Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"¡Hola, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Puedes cambiar las opciones de Traductor de Cunny en esta página."
+  },
+  "label_auto_copy":{
+    "message":"Copia automática:"
+  },
+  "desc_auto_copy":{
+    "message":"Copiar y pegar automáticamente el texto seleccionado en el campo de entrada cuando se abre la ventana emergente."
+  },
+  "label_context_menu":{
+    "message":"Mostrar en el menú contextual:"
+  },
+  "desc_context_menu":{
+    "message":"Muestra Traductor de Cunny en el menú contextual cada vez que haces clic derecho mientras el texto está seleccionado."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Si cambia esta opción, se volverá a cargar la extensión y se cerrará esta página temporalmente.)"
+  },
+  "reset_prompt":{
+    "message":"Esto restablecerá las opciones a sus valores predeterminados y volverá a cargar la extensión. ¿Desea continuar?"
+  }
+}

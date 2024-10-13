@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Translate"
+  },
+  "ext_description":{
+    "message":"Ang cute at nakakatawang tagasalin na nagbibigay-daan sa iyong madaling isalin ang Cunny Code habang nagba-browse ka sa web."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Password"
+  },
+  "btn_encode":{
+    "message":"Encode"
+  },
+  "btn_decode":{
+    "message":"Decode"
+  },
+  "btn_swap":{
+    "message":"Palitan ang input at output"
+  },
+  "btn_copy":{
+    "message":"Kopyahin"
+  },
+  "btn_copy_success":{
+    "message":"Kopya!"
+  },
+  "btn_copy_fail":{
+    "message":"Nabigo ang Nakopya!"
+  },
+  "error_title":{
+    "message":"Error"
+  },
+  "error_body":{
+    "message":"Hindi ma-encode ang sumusunod."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Mga Pagpipilian sa Extension"
+  },
+  "footer_donate":{
+    "message":"Mag-donate"
+  },
+  "title_options":{
+    "message":"Cunny Translate Options"
+  },
+  "label_auto_translate":{
+    "message":"Auto translate:"
+  },
+  "desc_auto_translate":{
+    "message":"Awtomatikong nag-e-encode o nagde-decode ng Cunny Code kapag ipinasok ang teksto sa input field."
+  },
+  "label_keep_password_state":{
+    "message":"Tandaan ang katayuan ng password:"
+  },
+  "desc_keep_password_state":{
+    "message":"Pinapanatiling naka-tick o naka-uncheck ang checkbox ng password depende sa iyong kagustuhan."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Kung hindi pinagana, ang checkbox ng password ay default na naka-off sa tuwing bubuksan mo ang popup.)"
+  },
+  "label_save_password":{
+    "message":"I-save ang password:"
+  },
+  "desc_save_password":{
+    "message":"Sine-save ang iyong pinakahuling password upang hindi mo na ito kailangang i-type muli kapag nag-e-encrypt o nagde-decrypt."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Ang naka-save na password ay tinanggal kapag hindi pinagana ang opsyong ito.)"
+  },
+  "btn_reset":{
+    "message":"I-reset"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Homepage"
+  },
+  "arona_dialogue_1":{
+    "message":"Hello, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Maaari mong baguhin ang mga opsyon para sa Cunny Translate sa pahinang ito."
+  },
+  "label_auto_copy":{
+    "message":"Auto copy:"
+  },
+  "desc_auto_copy":{
+    "message":"Awtomatikong kopyahin at idikit ang napiling teksto sa input field kapag binuksan mo ang popup."
+  },
+  "label_context_menu":{
+    "message":"Ipakita sa menu ng konteksto:"
+  },
+  "desc_context_menu":{
+    "message":"Ipinapakita ang Cunny Translate sa menu ng konteksto sa tuwing nag-right click ka habang pinipili ang teksto."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Ang pagpapalit sa opsyong ito ay magre-reload ng extension at pansamantalang isasara ang pahinang ito.)"
+  },
+  "reset_prompt":{
+    "message":"Ire-reset nito ang mga opsyon sa kanilang mga default at ire-reload ang extension. Gusto mo bang magpatuloy?"
+  }
+}

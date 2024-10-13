@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Tradutor"
+  },
+  "ext_description":{
+    "message":"O tradutor giro e engraçado que permite traduzir facilmente o Cunny Code enquanto navega na web."
+  },
+  "placeholder_input":{
+    "message":"Entrada"
+  },
+  "placeholder_output":{
+    "message":"Saída"
+  },
+  "label_password":{
+    "message":"Password"
+  },
+  "btn_encode":{
+    "message":"Codificar"
+  },
+  "btn_decode":{
+    "message":"Descodificar"
+  },
+  "btn_swap":{
+    "message":"Mudar a entrada e a saída"
+  },
+  "btn_copy":{
+    "message":"Copiar"
+  },
+  "btn_copy_success":{
+    "message":"Copiado!"
+  },
+  "btn_copy_fail":{
+    "message":"Falha na cópia!"
+  },
+  "error_title":{
+    "message":"Erro"
+  },
+  "error_body":{
+    "message":"O seguinte não pôde ser codificado."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Opções de extensão"
+  },
+  "footer_donate":{
+    "message":"Doar"
+  },
+  "title_options":{
+    "message":"Opções de tradução do Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Tradução automática:"
+  },
+  "desc_auto_translate":{
+    "message":"Codifica ou descodifica automaticamente o Cunny Code quando o texto é introduzido no campo de entrada."
+  },
+  "label_keep_password_state":{
+    "message":"Lembrar estado da password:"
+  },
+  "desc_keep_password_state":{
+    "message":"Mantém a caixa de selecção da palavra-passe marcada ou desmarcada consoante a sua preferência."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Se estiver desativado, a caixa de seleção da palavra-passe fica desativada sempre que abre o pop-up.)"
+  },
+  "label_save_password":{
+    "message":"Guardar palavra-passe:"
+  },
+  "desc_save_password":{
+    "message":"Guarda a sua palavra-passe mais recente para que não tenha de a introduzir novamente ao encriptar ou desencriptar."
+  },
+  "desc_save_password_subtext":{
+    "message":"(A palavra-passe guardada é eliminada ao desativar esta opção.)"
+  },
+  "btn_reset":{
+    "message":"Repor"
+  },
+  "link_homepage":{
+    "message":"Página inicial do Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Olá, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Pode alterar as opções do Cunny Tradutor nesta página."
+  },
+  "label_auto_copy":{
+    "message":"Cópia automática:"
+  },
+  "desc_auto_copy":{
+    "message":"Copie e cole automaticamente o texto selecionado no campo de entrada ao abrir o pop-up."
+  },
+  "label_context_menu":{
+    "message":"Mostrar no menu de contexto:"
+  },
+  "desc_context_menu":{
+    "message":"Mostra o Cunny Tradutor no menu de contexto sempre que clica com o botão direito do rato enquanto o texto está seleccionado."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(A alteração desta opção irá recarregar a extensão e fechar esta página temporariamente.)"
+  },
+  "reset_prompt":{
+    "message":"Isto irá repor as opções para os seus padrões e recarregar a extensão. Deseja continuar?"
+  }
+}

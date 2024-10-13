@@ -1,0 +1,176 @@
+{
+  "ext_name" : {
+    "message" : "Cunny Translate",
+    "description" : "Name of the extension."
+  },
+  
+  "ext_description" : {
+    "message" : "The cute and funny translator that lets you easily translate Cunny Code as you browse the web.",
+    "description" : "Description for the extension."
+  },
+  
+  "placeholder_input" : {
+    "message" : "Input",
+    "description" : "Placeholder texts for the input field."
+  },
+  
+  "placeholder_output" : {
+    "message" : "Output",
+    "description" : "Placeholder texts for the output field."
+  },
+  
+  "label_password" : {
+    "message" : "Password",
+    "description" : "Label for the password field under the input field."
+  },
+  
+  "btn_encode" : {
+    "message" : "Encode",
+    "description" : "Texts for the encode button."
+  },
+  
+  "btn_decode" : {
+    "message" : "Decode",
+    "description" : "Texts for the decode button."
+  },
+  
+  "btn_swap" : {
+    "message" : "Swap the input and output",
+    "description" : "Tooltip/title for the swap button. (displays on hover)"
+  },
+  
+  "btn_copy" : {
+    "message" : "Copy",
+    "description" : "Texts for the copy button below the output field."
+  },
+  
+  "btn_copy_success" : {
+    "message" : "Copied!",
+    "description" : "Texts for the copy button when the output is copied successfully."
+  },
+  
+  "btn_copy_fail" : {
+    "message" : "Copied Failed!",
+    "description" : "Texts for the copy button when the output fails to copy."
+  },
+  
+  "error_title" : {
+    "message" : "Error",
+    "description" : "Title for the error window that displays when unsupported characters are encoded."
+  },
+  
+  "error_body" : {
+    "message" : "The following could not be encoded.",
+    "description" : "Texts for the error window that displays when unsupported characters are encoded."
+  },
+  
+  "footer_website" : {
+    "message" : "Cunny Code",
+    "description" : "Link to the Cunny Code website in the footer."
+  },
+  
+  "footer_options" : {
+    "message" : "Extension Options",
+    "description" : "Link to the extension options in the footer."
+  },
+  
+  "footer_donate" : {
+    "message" : "Donate",
+    "description" : "Link to the donate page in the footer."
+  },
+  
+  "title_options" : {
+    "message" : "Cunny Translate Options",
+    "description" : "Options page title."
+  },
+  
+  "label_auto_translate" : {
+    "message" : "Auto translate:",
+    "description" : "Label texts for the auto-encode/decode option."
+  },
+  
+  "desc_auto_translate" : {
+    "message" : "Automatically encodes or decodes Cunny Code when text is entered into the input field.",
+    "description" : "Description for the auto-encode/decode option."
+  },
+  
+  "label_auto_copy" : {
+    "message" : "Auto copy:",
+    "description" : "Label texts for the auto-copy option."
+  },
+  
+  "desc_auto_copy" : {
+    "message" : "Automatically copy and paste selected text into the input field when you open the popup.",
+    "description" : "Description for the auto-copy option."
+  },
+  
+  "label_keep_password_state" : {
+    "message" : "Remember password state:",
+    "description" : "Label texts for the password state option."
+  },
+  
+  "desc_keep_password_state" : {
+    "message" : "Keeps the password checkbox ticked or unticked depending on your preference.",
+    "description" : "Description for the password state option."
+  },
+  
+  "desc_keep_password_state_subtext" : {
+    "message" : "(If disabled, the password checkbox defaults to off every time you open the popup.)",
+    "description" : "Additional description for the password state option."
+  },
+  
+  "label_save_password" : {
+    "message" : "Save password:",
+    "description" : "Label texts for the save password option."
+  },
+  
+  "desc_save_password" : {
+    "message" : "Saves your most recent password so you don't have to type it again when encrypting or decrypting.",
+    "description" : "Description for the save password option."
+  },
+  
+  "desc_save_password_subtext" : {
+    "message" : "(The saved password is deleted upon disabling this option.)",
+    "description" : "Additional description for the save password option."
+  },
+  
+  "label_context_menu" : {
+    "message" : "Show in context menu:",
+    "description" : "Label texts for the context menu option."
+  },
+  
+  "desc_context_menu" : {
+    "message" : "Shows Cunny Translate in the context menu whenever you right click while text is selected.",
+    "description" : "Description for the context option."
+  },
+  
+  "desc_context_menu_subtext" : {
+    "message" : "(Changing this option will reload the extension and close this page temporarily.)",
+    "description" : "Additional description for the context menu option."
+  },
+  
+  "btn_reset" : {
+    "message" : "Reset",
+    "description" : "Texts for the options reset button."
+  },
+  
+  "reset_prompt" : {
+    "message" : "This will reset the options to their defaults and reload the extension. Do you want to continue?",
+    "description" : "Prompt that displays when the reset options button is clicked."
+  },
+  
+  "link_homepage" : {
+    "message" : "Cunny Code Homepage",
+    "description" : "Texts for the Cunny Code homepage link at the bottom of the options page."
+  },
+  
+  "arona_dialogue_1" : {
+    "message" : "Hello, Sensei!",
+    "description" : "First line for Arona's dialogue on the options page."
+  },
+  
+  "arona_dialogue_2" : {
+    "message" : "You can change the options for Cunny Translate on this page.",
+    "description" : "Second line for Arona's dialogue on the options page."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Kääntäjä"
+  },
+  "ext_description":{
+    "message":"Söpö ja hauska kääntäjä, jonka avulla voit helposti kääntää Cunny Coden kun selaat verkkoa."
+  },
+  "placeholder_input":{
+    "message":"Syötä"
+  },
+  "placeholder_output":{
+    "message":"Tulostulo"
+  },
+  "label_password":{
+    "message":"Salasana"
+  },
+  "btn_encode":{
+    "message":"Koodaa"
+  },
+  "btn_decode":{
+    "message":"Dekoodaus"
+  },
+  "btn_swap":{
+    "message":"Vaihda tulo ja lähtö"
+  },
+  "btn_copy":{
+    "message":"Kopioi"
+  },
+  "btn_copy_success":{
+    "message":"Kopioitu!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiointi epäonnistui!"
+  },
+  "error_title":{
+    "message":"Virhe"
+  },
+  "error_body":{
+    "message":"Seuraavaa ei voitu koodata."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_optiot":{
+    "message":"Laajennusvaihtoehdot"
+  },
+  "footer_donate":{
+    "message":"Lahjoita"
+  },
+  "title_options":{
+    "message":"Cunny Kääntäjä Options"
+  },
+  "label_auto_translate":{
+    "message":"Automaattinen käännös:"
+  },
+  "desc_auto_translate":{
+    "message":"Koodaa tai purkaa Cunny Coden automaattisesti, kun tekstiä syötetään syöttökenttään."
+  },
+  "label_keep_password_state":{
+    "message":"Muista salasanan tila:"
+  },
+  "desc_keep_password_state":{
+    "message":"Pitää salasanan valintaruudun valittuna tai ei ole valittuna valintasi mukaan."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Jos se ei ole käytössä, salasanan valintaruutu on oletuksena pois päältä aina, kun avaat ponnahdusikkunan.)"
+  },
+  "label_save_password":{
+    "message":"Tallenna salasana:"
+  },
+  "desc_save_password":{
+    "message":"Tallennaa viimeisimmän salasanasi, jotta sinun ei tarvitse kirjoittaa sitä uudelleen salauksen tai salauksen purkamisen aikana."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Tallennettu salasana poistetaan, kun tämä asetus poistetaan käytöstä.)"
+  },
+  "btn_reset":{
+    "message":"Nollaa"
+  },
+  "linkin_kotisivu":{
+    "message":"Cunny Coden kotisivu"
+  },
+  "arona_dialogue_1":{
+    "message":"Hei, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Voit muuttaa Cunny Kääntäjä -asetuksia tällä sivulla."
+  },
+  "label_auto_copy":{
+    "message":"Automaattinen kopiointi:"
+  },
+  "desc_auto_copy":{
+    "message":"Kopioi ja liitä valittu teksti automaattisesti syöttökenttään, kun avaat ponnahdusikkunan."
+  },
+  "label_context_menu":{
+    "message":"Näytä kontekstivalikossa:"
+  },
+  "desc_context_menu":{
+    "message":"Näyttää Cunny Kääntäjä-sovelluksen kontekstivalikossa aina, kun napsautat hiiren kakkospainikkeella tekstiä valittuna."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Tämän vaihtoehdon muuttaminen lataa laajennuksen uudelleen ja sulkee tämän sivun väliaikaisesti.)"
+  },
+  "reset_prompt":{
+    "message":"Tämä palauttaa asetukset oletusarvoihinsa ja lataa laajennuksen uudelleen. Haluatko jatkaa?"
+  }
+}

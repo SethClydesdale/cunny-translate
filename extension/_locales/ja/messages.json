@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny 翻訳"
+  },
+  "ext_description":{
+    "message":"Webを閲覧しながらCunny Codeを簡単に翻訳できる、キュート・アンド・ファニー(Cunny)翻訳ツールです。"
+  },
+  "placeholder_input":{
+    "message":"入力"
+  },
+  "placeholder_output":{
+    "message":"出力"
+  },
+  "label_password":{
+    "message":"パスワード"
+  },
+  "btn_encode":{
+    "message":"エンコード"
+  },
+  "btn_decode":{
+    "message":"デコード"
+  },
+  "btn_swap":{
+    "message":"入力と出力を入れ替える"
+  },
+  "btn_copy":{
+    "message":"コピー"
+  },
+  "btn_copy_success":{
+    "message":"コピーしました!"
+  },
+  "btn_copy_fail":{
+    "message":"コピーに失敗しました!"
+  },
+  "error_title":{
+    "message":"エラー"
+  },
+  "error_body":{
+    "message":"以下はエンコードできませんでした。"
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"拡張機能オプション"
+  },
+  "footer_donate":{
+    "message":"寄付"
+  },
+  "title_options":{
+    "message":"Cunny 翻訳のオプション"
+  },
+  "label_auto_translate":{
+    "message":"自動翻訳:"
+  },
+  "desc_auto_translate":{
+    "message":"入力フィールドにテキストが入力されると、Cunny Codeを自動的にエンコードまたはデコードします。"
+  },
+  "label_keep_password_state":{
+    "message":"パスワードの状態を記憶:"
+  },
+  "desc_keep_password_state":{
+    "message":"好みに応じてパスワードのチェックボックスをオンまたはオフにします。"
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(無効にすると、ポップアップを開くたびにパスワードのチェックボックスがデフォルトでオフになります)"
+  },
+  "label_save_password":{
+    "message":"パスワードを保存:"
+  },
+  "desc_save_password":{
+    "message":"最新のパスワードを保存して、暗号化または復号化時に再度入力する必要がないようにします。"
+  },
+  "desc_save_password_subtext":{
+    "message":"(このオプションを無効にすると、保存されたパスワードは削除されます)"
+  },
+  "btn_reset":{
+    "message":"リセット"
+  },
+  "link_homepage":{
+    "message":"Cunny Codeのホームページ"
+  },
+  "arona_dialogue_1":{
+    "message":"こんにちは、先生！"
+  },
+  "arona_dialogue_2":{
+    "message":"このページでCunny 翻訳のオプションが変更できますよ。"
+  },
+  "label_auto_copy":{
+    "message":"自動コピー:"
+  },
+  "desc_auto_copy":{
+    "message":"ポップアップを開いたときに、選択したテキストを自動的にコピーして入力フィールドに貼り付けます。"
+  },
+  "label_context_menu":{
+    "message":"コンテキスト メニューに表示:"
+  },
+  "desc_context_menu":{
+    "message":"テキストを選択中に右クリックするたびに、コンテキスト メニューにCunny 翻訳が表示されます。"
+  },
+  "desc_context_menu_subtext":{
+    "message":"(このオプションを変更すると、拡張機能が再読み込みされ、このページが一時的に閉じられます。)"
+  },
+  "reset_prompt":{
+    "message":"これにより、オプションがデフォルトにリセットされ、拡張機能が再読み込みされます。続行しますか?"
+  }
+}

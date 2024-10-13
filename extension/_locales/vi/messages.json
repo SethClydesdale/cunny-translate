@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Dịch"
+  },
+  "ext_description":{
+    "message":"Trình dịch dễ thương và vui nhộn cho phép bạn dễ dàng dịch Cunny Code khi bạn duyệt web."
+  },
+  "placeholder_input":{
+    "message":"Đầu vào"
+  },
+  "placeholder_output":{
+    "message":"Đầu ra"
+  },
+  "label_password":{
+    "message":"Mật khẩu"
+  },
+  "btn_encode":{
+    "message":"Mã hóa"
+  },
+  "btn_decode":{
+    "message":"Giải mã"
+  },
+  "btn_swap":{
+    "message":"Hoán đổi đầu vào và đầu ra"
+  },
+  "btn_copy":{
+    "message":"Sao chép"
+  },
+  "btn_copy_success":{
+    "message":"Đã sao chép!"
+  },
+  "btn_copy_fail":{
+    "message":"Sao chép không thành công!"
+  },
+  "error_title":{
+    "message":"Lỗi"
+  },
+  "error_body":{
+    "message":"Không thể mã hóa nội dung sau."
+  },
+  "footer_website":{
+    "message":"Mã Cunny"
+  },
+  "footer_options":{
+    "message":"Tùy chọn mở rộng"
+  },
+  "footer_donate":{
+    "message":"Quyên góp"
+  },
+  "title_options":{
+    "message":"Tùy chọn dịch Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Dịch tự động:"
+  },
+  "desc_auto_translate":{
+    "message":"Tự động mã hóa hoặc giải mã Mã Cunny khi nhập văn bản vào trường nhập liệu."
+  },
+  "label_keep_password_state":{
+    "message":"Ghi nhớ trạng thái mật khẩu:"
+  },
+  "desc_keep_password_state":{
+    "message":"Giữ hộp kiểm mật khẩu được đánh dấu hoặc bỏ đánh dấu tùy theo sở thích của bạn."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Nếu bị vô hiệu hóa, hộp kiểm mật khẩu sẽ mặc định tắt mỗi khi bạn mở cửa sổ bật lên.)"
+  },
+  "label_save_password":{
+    "message":"Lưu mật khẩu:"
+  },
+  "desc_save_password":{
+    "message":"Lưu mật khẩu gần đây nhất của bạn để bạn không phải nhập lại khi mã hóa hoặc giải mã."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Mật khẩu đã lưu sẽ bị xóa khi tắt tùy chọn này.)"
+  },
+  "btn_reset":{
+    "message":"Đặt lại"
+  },
+  "link_homepage":{
+    "message":"Trang chủ Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Xin chào, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Bạn có thể thay đổi các tùy chọn cho Cunny Dịch trên trang này."
+  },
+  "label_auto_copy":{
+    "message":"Sao chép tự động:"
+  },
+  "desc_auto_copy":{
+    "message":"Tự động sao chép và dán văn bản đã chọn vào trường nhập khi bạn mở cửa sổ bật lên."
+  },
+  "label_context_menu":{
+    "message":"Hiển thị trong menu ngữ cảnh:"
+  },
+  "desc_context_menu":{
+    "message":"Hiển thị Cunny Dịch trong menu ngữ cảnh bất cứ khi nào bạn nhấp chuột phải khi văn bản được chọn."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Thay đổi tùy chọn này sẽ tải lại tiện ích mở rộng và đóng trang này tạm thời.)"
+  },
+  "reset_prompt":{
+    "message":"Điều này sẽ đặt lại các tùy chọn về mặc định và tải lại tiện ích mở rộng. Bạn có muốn tiếp tục không?"
+  }
+}

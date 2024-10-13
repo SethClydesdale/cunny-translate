@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny vertėjas"
+  },
+  "ext_description":{
+    "message":"Il traduttore carino e divertente che ti consente di tradurre facilmente Cunny Code mentre navighi sul web."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Password"
+  },
+  "btn_encode":{
+    "message":"Codifica"
+  },
+  "btn_decode":{
+    "message":"Decodifica"
+  },
+  "btn_swap":{
+    "message":"Scambia input e output"
+  },
+  "btn_copy":{
+    "message":"Copia"
+  },
+  "btn_copy_success":{
+    "message":"Copiato!"
+  },
+  "btn_copy_fail":{
+    "message":"Copia non riuscita!"
+  },
+  "error_title":{
+    "message":"Errore"
+  },
+  "error_body":{
+    "message":"Impossibile codificare quanto segue."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Extension Options"
+  },
+  "footer_donate":{
+    "message":"Donate"
+  },
+  "title_options":{
+    "message":"Cunny vertėjas Options"
+  },
+  "label_auto_translate":{
+    "message":"Auto translate:"
+  },
+  "desc_auto_translate":{
+    "message":"Codifica o decodifica automaticamente Cunny Code quando il testo viene inserito nel campo di input."
+  },
+  "label_keep_password_state":{
+    "message":"Ricorda lo stato della password:"
+  },
+  "desc_keep_password_state":{
+    "message":"Mantiene la casella di controllo della password selezionata o deselezionata a seconda delle tue preferenze."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Se disabilitata, la casella di controllo della password è disattivata per impostazione predefinita ogni volta che apri il popup.)"
+  },
+  "label_save_password":{
+    "message":"Salva password:"
+  },
+  "desc_save_password":{
+    "message":"Salva la password più recente in modo da non doverla digitare di nuovo durante la crittografia o la decrittografia."
+  },
+  "desc_save_password_subtext":{
+    "message":"(La password salvata viene eliminata quando si disabilita questa opzione.)"
+  },
+  "btn_reset":{
+    "message":"Reimposta"
+  },
+  "link_homepage":{
+    "message":"Homepage di Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Ciao, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Puoi modificare le opzioni per Cunny vertėjas in questa pagina."
+  },
+  "label_auto_copy":{
+    "message":"Copia automatica:"
+  },
+  "desc_auto_copy":{
+    "message":"Copia e incolla automaticamente il testo selezionato nel campo di input quando apri il popup."
+  },
+  "label_context_menu":{
+    "message":"Mostra nel menu contestuale:"
+  },
+  "desc_context_menu":{
+    "message":"Mostra Cunny vertėjas nel menu contestuale ogni volta che fai clic con il pulsante destro del mouse mentre è selezionato del testo."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(La modifica di questa opzione ricaricherà l'estensione e chiuderà temporaneamente questa pagina.)"
+  },
+  "reset_prompt":{
+    "message":"Questo ripristinerà le opzioni ai valori predefiniti e ricaricherà l'estensione. Vuoi continuare?"
+  }
+}

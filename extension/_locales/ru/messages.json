@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Переводчик"
+  },
+  "ext_description":{
+    "message":"Милый и забавный переводчик, который позволяет вам легко переводить Cunny Code во время просмотра веб-страниц."
+  },
+  "placeholder_input":{
+    "message":"Ввод"
+  },
+  "placeholder_output":{
+    "message":"Вывод"
+  },
+  "label_password":{
+    "message":"Пароль"
+  },
+  "btn_encode":{
+    "message":"Кодировать"
+  },
+  "btn_decode":{
+    "message":"Декодировать"
+  },
+  "btn_swap":{
+    "message":"Поменять местами ввод и вывод"
+  },
+  "btn_copy":{
+    "message":"Копировать"
+  },
+  "btn_copy_success":{
+    "message":"Скопировано!"
+  },
+  "btn_copy_fail":{
+    "message":"Ошибка копирования!"
+  },
+  "error_title":{
+    "message":"Ошибка"
+  },
+  "error_body":{
+    "message":"Следующее не удалось закодировать."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Параметры расширения"
+  },
+  "footer_donate":{
+    "message":"Пожертвование"
+  },
+  "title_options":{
+    "message":"Параметры Cunny Переводчик"
+  },
+  "label_auto_translate":{
+    "message":"Автоматический перевод:"
+  },
+  "desc_auto_translate":{
+    "message":"Автоматически кодирует или декодирует Cunny Code при вводе текста в поле ввода."
+  },
+  "label_keep_password_state":{
+    "message":"Запомнить состояние пароля:"
+  },
+  "desc_keep_password_state":{
+    "message":"Оставляет флажок пароля установленным или снятым в зависимости от ваших предпочтений."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Если отключено, флажок пароля по умолчанию отключается каждый раз при открытии всплывающего окна.)"
+  },
+  "label_save_password":{
+    "message":"Сохранить пароль:"
+  },
+  "desc_save_password":{
+    "message":"Сохраняет ваш последний пароль, чтобы вам не приходилось вводить его снова при шифровании или дешифровании."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Сохраненный пароль удаляется при отключении этой опции.)"
+  },
+  "btn_reset":{
+    "message":"Сброс"
+  },
+  "link_homepage":{
+    "message":"Домашняя страница Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Привет, сэнсэй!"
+  },
+  "arona_dialogue_2":{
+    "message":"Вы можете изменить параметры Cunny Переводчик на этой странице."
+  },
+  "label_auto_copy":{
+    "message":"Автоматическое копирование:"
+  },
+  "desc_auto_copy":{
+    "message":"Автоматически копировать и вставлять выделенный текст в поле ввода при открытии всплывающего окна."
+  },
+  "label_context_menu":{
+    "message":"Показывать в контекстном меню:"
+  },
+  "desc_context_menu":{
+    "message":"Показывает Cunny Переводчик в контекстном меню, когда вы щелкаете правой кнопкой мыши, когда выделен текст."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Изменение этого параметра перезагрузит расширение и временно закроет эту страницу.)"
+  },
+  "reset_prompt":{
+    "message":"Это сбросит параметры до значений по умолчанию и перезагрузит расширение. Хотите продолжить?"
+  }
+}

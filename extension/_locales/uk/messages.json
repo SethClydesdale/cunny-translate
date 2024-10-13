@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Перекладач"
+  },
+  "ext_description":{
+    "message":"Симпатичний і веселий перекладач, який дозволяє легко перекладати Cunny Code під час перегляду веб-сторінок."
+  },
+  "placeholder_input":{
+    "message":"Введення"
+  },
+  "placeholder_output":{
+    "message":"Вихід"
+  },
+  "label_password":{
+    "message":"Пароль"
+  },
+  "btn_encode":{
+    "message":"Закодувати"
+  },
+  "btn_decode":{
+    "message":"Декодувати"
+  },
+  "btn_swap":{
+    "message":"Поміняти місцями вхід і вихід"
+  },
+  "btn_copy":{
+    "message":"Копіювати"
+  },
+  "btn_copy_success":{
+    "message":"Скопійовано!"
+  },
+  "btn_copy_fail":{
+    "message":"Не вдалося скопіювати!"
+  },
+  "error_title":{
+    "message":"Помилка"
+  },
+  "error_body":{
+    "message":"Не вдалося закодувати наступне."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Параметри розширення"
+  },
+  "footer_donate":{
+    "message":"Пожертвувати"
+  },
+  "title_options":{
+    "message":"Параметри перекладу Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Автоматичний переклад:"
+  },
+  "desc_auto_translate":{
+    "message":"Автоматично кодує або декодує Cunny Code, коли текст вводиться в поле введення."
+  },
+  "label_keep_password_state":{
+    "message":"Запам'ятати стан пароля:"
+  },
+  "desc_keep_password_state":{
+    "message":"Зберігає прапорець пароля позначеним або не позначеним залежно від ваших уподобань."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Якщо вимкнено, прапорець пароля за замовчуванням вимкнено кожного разу, коли ви відкриваєте спливаюче вікно.)"
+  },
+  "label_save_password":{
+    "message":"Зберегти пароль:"
+  },
+  "desc_save_password":{
+    "message":"Зберігає ваш останній пароль, щоб вам не довелося вводити його знову під час шифрування чи дешифрування."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Після вимкнення цієї опції збережений пароль видаляється.)"
+  },
+  "btn_reset":{
+    "message":"Скинути"
+  },
+  "link_homepage":{
+    "message":"Домашня сторінка Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Привіт, Сенсей!"
+  },
+  "arona_dialogue_2":{
+    "message":"Ви можете змінити параметри Cunny Перекладач на цій сторінці."
+  },
+  "label_auto_copy":{
+    "message":"Автоматичне копіювання:"
+  },
+  "desc_auto_copy":{
+    "message":"Автоматично копіювати та вставляти виділений текст у поле введення, коли ви відкриваєте спливаюче вікно."
+  },
+  "label_context_menu":{
+    "message":"Показати в контекстному меню:"
+  },
+  "desc_context_menu":{
+    "message":"Показує Cunny Перекладач у контекстному меню кожного разу, коли ви клацаєте правою кнопкою миші, коли вибрано текст."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Зміна цього параметра призведе до перезавантаження розширення та тимчасового закриття цієї сторінки.)"
+  },
+  "reset_prompt":{
+    "message":"Це скине параметри до стандартних і перезавантажить розширення. Бажаєте продовжити?"
+  }
+}

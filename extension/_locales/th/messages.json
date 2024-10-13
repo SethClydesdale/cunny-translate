@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny แปลภาษา"
+  },
+  "ext_description":{
+    "message":"โปรแกรมแปลภาษาสุดน่ารักและตลกที่ให้คุณแปล Cunny Code ได้อย่างง่ายดายขณะที่คุณท่องเว็บ"
+  },
+  "placeholder_input":{
+    "message":"อินพุต"
+  },
+  "placeholder_output":{
+    "message":"เอาท์พุต"
+  },
+  "label_password":{
+    "message":"รหัสผ่าน"
+  },
+  "btn_encode":{
+    "message":"เข้ารหัส"
+  },
+  "btn_decode":{
+    "message":"ถอดรหัส"
+  },
+  "btn_swap":{
+    "message":"สลับอินพุตและเอาท์พุต"
+  },
+  "btn_copy":{
+    "message":"คัดลอก"
+  },
+  "btn_copy_success":{
+    "message":"คัดลอกแล้ว!"
+  },
+  "btn_copy_fail":{
+    "message":"คัดลอกไม่สำเร็จ!"
+  },
+  "error_title":{
+    "message":"Error"
+  },
+  "error_body":{
+    "message":"ไม่สามารถเข้ารหัสข้อมูลต่อไปนี้ได้"
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"ตัวเลือกส่วนขยาย"
+  },
+  "footer_donate":{
+    "message":"บริจาค"
+  },
+  "title_options":{
+    "message":"ตัวเลือกการแปล Cunny"
+  },
+  "label_auto_translate":{
+    "message":"แปลอัตโนมัติ:"
+  },
+  "desc_auto_translate":{
+    "message":"เข้ารหัสหรือถอดรหัส Cunny Code โดยอัตโนมัติเมื่อป้อนข้อความลงในช่องป้อนข้อมูล"
+  },
+  "label_keep_password_state":{
+    "message":"Remember password state:"
+  },
+  "desc_keep_password_state":{
+    "message":"เลือกหรือไม่เลือกช่องกาเครื่องหมายรหัสผ่าน ขึ้นอยู่กับการตั้งค่าของคุณ"
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(หากปิดใช้งาน ช่องกาเครื่องหมายรหัสผ่านจะปิดเป็นค่าเริ่มต้นทุกครั้งที่คุณเปิดป๊อปอัป)"
+  },
+  "label_save_password":{
+    "message":"บันทึกรหัสผ่าน:"
+  },
+  "desc_save_password":{
+    "message":"บันทึกรหัสผ่านล่าสุดของคุณ ดังนั้นคุณจึงไม่ต้องพิมพ์ซ้ำอีกเมื่อเข้ารหัสหรือถอดรหัส"
+  },
+  "desc_save_password_subtext":{
+    "message":"(รหัสผ่านที่บันทึกไว้จะถูกลบเมื่อปิดใช้งานตัวเลือกนี้)"
+  },
+  "btn_reset":{
+    "message":"รีเซ็ต"
+  },
+  "link_homepage":{
+    "message":"หน้าแรกของ Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"สวัสดี อาจารย์!"
+  },
+  "arona_dialogue_2":{
+    "message":"คุณสามารถเปลี่ยนตัวเลือกสำหรับ Cunny แปลภาษา บนหน้านี้ได้"
+  },
+  "label_auto_copy":{
+    "message":"คัดลอกอัตโนมัติ:"
+  },
+  "desc_auto_copy":{
+    "message":"คัดลอกและวางข้อความที่เลือกลงในช่องป้อนข้อมูลโดยอัตโนมัติเมื่อคุณเปิดป๊อปอัป"
+  },
+  "label_context_menu":{
+    "message":"แสดงในเมนูบริบท:"
+  },
+  "desc_context_menu":{
+    "message":"แสดง Cunny แปลภาษา ในเมนูบริบททุกครั้งที่คุณคลิกขวาขณะที่เลือกข้อความ"
+  },
+  "desc_context_menu_subtext":{
+    "message":"(การเปลี่ยนตัวเลือกนี้จะโหลดส่วนขยายซ้ำและปิดหน้านี้ชั่วคราว)"
+  },
+  "reset_prompt":{
+    "message":"การดำเนินการนี้จะรีเซ็ตตัวเลือกเป็นค่าเริ่มต้นและโหลดส่วนขยายซ้ำ คุณต้องการดำเนินการต่อหรือไม่"
+  }
+}

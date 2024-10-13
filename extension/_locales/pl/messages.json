@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Tłumacz Cunny"
+  },
+  "ext_description":{
+    "message":"Słodki i zabawny tłumacz, który pozwala łatwo tłumaczyć kod Cunny podczas przeglądania sieci."
+  },
+  "placeholder_input":{
+    "message":"Wejście"
+  },
+  "placeholder_output":{
+    "message":"Wyjście"
+  },
+  "label_password":{
+    "message":"Hasło"
+  },
+  "btn_encode":{
+    "message":"Kodowanie"
+  },
+  "btn_decode":{
+    "message":"Dekodowanie"
+  },
+  "btn_swap":{
+    "message":"Zamień wejście i wyjście"
+  },
+  "btn_copy":{
+    "message":"Kopiuj"
+  },
+  "btn_copy_success":{
+    "message":"Skopiowano!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiowanie nie powiodło się!"
+  },
+  "error_title":{
+    "message":"Błąd"
+  },
+  "error_body":{
+    "message":"Nie można zakodować następującego."
+  },
+  "footer_website":{
+    "message":"Kod Cunny"
+  },
+  "footer_options":{
+    "message":"Opcje rozszerzeń"
+  },
+  "footer_donate":{
+    "message":"Przekaż darowiznę"
+  },
+  "title_options":{
+    "message":"Opcje tłumaczenia Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Automatyczne tłumaczenie:"
+  },
+  "desc_auto_translate":{
+    "message":"Automatycznie koduje lub dekoduje kod Cunny, gdy tekst jest wprowadzany do pola wprowadzania."
+  },
+  "label_keep_password_state":{
+    "message":"Zapamiętaj stan hasła:"
+  },
+  "desc_keep_password_state":{
+    "message":"Utrzymuje pole wyboru hasła zaznaczone lub niezaznaczone w zależności od Twoich preferencji."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Jeśli wyłączone, pole wyboru hasła domyślnie jest wyłączone za każdym razem, gdy otwierasz wyskakujące okienko.)"
+  },
+  "label_save_password":{
+    "message":"Zapisz hasło:"
+  },
+  "desc_save_password":{
+    "message":"Zapisuje Twoje ostatnie hasło, dzięki czemu nie musisz go wpisywać ponownie podczas szyfrowania lub odszyfrowywania."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Zapisane hasło zostanie usunięte po wyłączeniu tej opcji.)"
+  },
+  "btn_reset":{
+    "message":"Resetuj"
+  },
+  "link_homepage":{
+    "message":"Strona główna Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Witaj, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Możesz zmienić opcje dla Tłumacz Cunny na tej stronie."
+  },
+  "label_auto_copy":{
+    "message":"Automatyczne kopiowanie:"
+  },
+  "desc_auto_copy":{
+    "message":"Automatycznie kopiuj i wklejaj zaznaczony tekst do pola wprowadzania po otwarciu wyskakującego okienka."
+  },
+  "label_context_menu":{
+    "message":"Pokaż w menu kontekstowym:"
+  },
+  "desc_context_menu":{
+    "message":"Pokazuje Tłumacz Cunny w menu kontekstowym po kliknięciu prawym przyciskiem myszy, gdy tekst jest zaznaczony."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Zmiana tej opcji spowoduje ponowne załadowanie rozszerzenia i tymczasowe zamknięcie tej strony.)"
+  },
+  "reset_prompt":{
+    "message":"Spowoduje to zresetowanie opcji do ustawień domyślnych i ponowne załadowanie rozszerzenia. Czy chcesz kontynuować?"
+  }
+}

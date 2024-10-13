@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Çeviri"
+  },
+  "ext_description":{
+    "message":"Web'de gezinirken Cunny Code'u kolayca çevirmenizi sağlayan sevimli ve komik çevirmen."
+  },
+  "placeholder_input":{
+    "message":"Giriş"
+  },
+  "placeholder_output":{
+    "message":"Çıktı"
+  },
+  "label_password":{
+    "message":"Şifre"
+  },
+  "btn_encode":{
+    "message":"Kodla"
+  },
+  "btn_decode":{
+    "message":"Kod Çöz"
+  },
+  "btn_swap":{
+    "message":"Girişi ve çıktıyı değiştir"
+  },
+  "btn_copy":{
+    "message":"Kopyala"
+  },
+  "btn_copy_success":{
+    "message":"Kopyalandı!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopyalama Başarısız!"
+  },
+  "error_title":{
+    "message":"Hata"
+  },
+  "error_body":{
+    "message":"Aşağıdaki kodlanamadı."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Uzantı Seçenekleri"
+  },
+  "footer_donate":{
+    "message":"Bağış Yap"
+  },
+  "title_options":{
+    "message":"Cunny Çeviri Seçenekleri"
+  },
+  "label_auto_translate":{
+    "message":"Otomatik çeviri:"
+  },
+  "desc_auto_translate":{
+    "message":"Giriş alanına metin girildiğinde Cunny Code'u otomatik olarak kodlar veya kodunu çözer."
+  },
+  "label_keep_password_state":{
+    "message":"Şifre durumunu hatırla:"
+  },
+  "desc_keep_password_state":{
+    "message":"Tercihinize bağlı olarak şifre onay kutusunu işaretli veya işaretsiz tutar."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Devre dışı bırakılırsa, açılır pencereyi her açtığınızda şifre onay kutusu varsayılan olarak kapalı olur.)"
+  },
+  "label_save_password":{
+    "message":"Şifreyi kaydet:"
+  },
+  "desc_save_password":{
+    "message":"Şifreyi şifrelerken veya şifresini çözerken tekrar yazmanıza gerek kalmaması için en son şifrenizi kaydeder."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Bu seçeneği devre dışı bıraktığınızda kaydedilen parola silinir.)"
+  },
+  "btn_reset":{
+    "message":"Sıfırla"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Ana Sayfası"
+  },
+  "arona_dialogue_1":{
+    "message":"Merhaba, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Bu sayfadaki Cunny Çeviri seçeneklerini değiştirebilirsiniz."
+  },
+  "label_auto_copy":{
+    "message":"Otomatik kopyala:"
+  },
+  "desc_auto_copy":{
+    "message":"Açılır pencereyi açtığınızda seçili metni otomatik olarak kopyalayıp giriş alanına yapıştırın."
+  },
+  "label_context_menu":{
+    "message":"Bağlam menüsünde göster:"
+  },
+  "desc_context_menu":{
+    "message":"Metin seçiliyken sağ tıkladığınızda bağlam menüsünde Cunny Çeviri gösterilir."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Bu seçeneği değiştirmek uzantıyı yeniden yükleyecek ve bu sayfayı geçici olarak kapatacaktır.)"
+  },
+  "reset_prompt":{
+    "message":"Bu, seçenekleri varsayılanlarına sıfırlayacak ve uzantıyı yeniden yükleyecektir. Devam etmek istiyor musunuz?"
+  }
+}

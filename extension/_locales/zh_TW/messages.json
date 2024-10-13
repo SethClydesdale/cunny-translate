@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny 翻譯"
+  },
+  "ext_description":{
+    "message":"可愛有趣的翻譯器，讓您在瀏覽網頁時輕鬆翻譯 Cunny Code。"
+  },
+  "placeholder_input":{
+    "message":"輸入"
+  },
+  "placeholder_output":{
+    "message":"輸出"
+  },
+  "label_password":{
+    "message":"密碼"
+  },
+  "btn_encode":{
+    "message":"編碼"
+  },
+  "btn_decode":{
+    "message":"解碼"
+  },
+  "btn_swap":{
+    "message":"交換輸入與輸出"
+  },
+  "btn_copy":{
+    "message":"複製"
+  },
+  "btn_copy_success":{
+    "message":"已複製！"
+  },
+  "btn_copy_fail":{
+    "message":"複製失敗！"
+  },
+  "error_title":{
+    "message":"錯誤"
+  },
+  "error_body":{
+    "message":"無法對以下內容進行編碼。"
+  },
+  "footer_website":{
+    "message":"狡猾的代碼"
+  },
+  "footer_options":{
+    "message":"擴充選項"
+  },
+  "footer_donate":{
+    "message":"捐贈"
+  },
+  "title_options":{
+    "message":"Cunny 翻譯選項"
+  },
+  "label_auto_translate":{
+    "message":"自動翻譯:"
+  },
+  "desc_auto_translate":{
+    "message":"在輸入欄位中輸入文字時自動編碼或解碼 Cunny Code。"
+  },
+  "label_keep_password_state":{
+    "message":"記住密碼狀態:"
+  },
+  "desc_keep_password_state":{
+    "message":"根據您的偏好勾選或取消勾選密碼複選框。"
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(如果停用，則每次開啟彈出視窗時密碼複選框都會預設為關閉。)"
+  },
+  "label_save_password":{
+    "message":"儲存密碼:"
+  },
+  "desc_save_password":{
+    "message":"儲存您最近的密碼，以便您在加密或解密時無需再次輸入。"
+  },
+  "desc_save_password_subtext":{
+    "message":"(停用此選項後，儲存的密碼將被刪除。)"
+  },
+  "btn_reset":{
+    "message":"重置"
+  },
+  "link_homepage":{
+    "message":"Cunny Code 首頁"
+  },
+  "arona_dialogue_1":{
+    "message":"老師您好！"
+  },
+  "arona_dialogue_2":{
+    "message":"您可以在此頁面上更改 Cunny 翻譯 的選項。"
+  },
+  "label_auto_copy":{
+    "message":"自動複製:"
+  },
+  "desc_auto_copy":{
+    "message":"開啟彈出視窗時，自動將所選文字複製並貼上到輸入欄位中。"
+  },
+  "label_context_menu":{
+    "message":"在上下文選單中顯示:"
+  },
+  "desc_context_menu":{
+    "message":"只要在選擇文字時右鍵單擊，就會在上下文選單中顯示 Cunny 翻譯。"
+  },
+  "desc_context_menu_subtext":{
+    "message":"(更改此選項將重新載入擴充功能並暫時關閉此頁面。)"
+  },
+  "reset_prompt":{
+    "message":"這會將選項重設為預設值並重新載入擴充功能。您想繼續嗎？"
+  }
+}

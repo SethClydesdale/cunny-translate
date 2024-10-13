@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Translate"
+  },
+  "ext_description":{
+    "message":"प्यारा और मज़ेदार अनुवादक जो आपको वेब ब्राउज़ करते समय आसानी से Cunny Code का अनुवाद करने देता है।"
+  },
+  "placeholder_input":{
+    "message":"इनपुट"
+  },
+  "placeholder_output":{
+    "message":"आउटपुट"
+  },
+  "label_password":{
+    "message":"पासवर्ड"
+  },
+  "btn_encode":{
+    "message":"एनकोड"
+  },
+  "btn_decode":{
+    "message":"डिकोड"
+  },
+  "btn_swap":{
+    "message":"इनपुट और आउटपुट को स्वैप करें"
+  },
+  "btn_copy":{
+    "message":"कॉपी करें"
+  },
+  "btn_copy_success":{
+    "message":"कॉपी किया गया!"
+  },
+  "btn_copy_fail":{
+    "message":"कॉपी विफल!"
+  },
+  "error_title":{
+    "message":"त्रुटि"
+  },
+  "error_body":{
+    "message":"निम्नलिखित को एनकोड नहीं किया जा सका।"
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"एक्सटेंशन विकल्प"
+  },
+  "footer_donate":{
+    "message":"दान करें"
+  },
+  "title_options":{
+    "message":"Cunny Translate विकल्प"
+  },
+  "label_auto_translate":{
+    "message":"स्वतः अनुवाद:"
+  },
+  "desc_auto_translate":{
+    "message":"जब इनपुट फ़ील्ड में टेक्स्ट डाला जाता है, तो यह स्वचालित रूप से Cunny Code को एनकोड या डिकोड करता है।"
+  },
+  "label_keep_password_state":{
+    "message":"पासवर्ड की स्थिति याद रखें:"
+  },
+  "desc_keep_password_state":{
+    "message":"आपकी पसंद के आधार पर पासवर्ड चेकबॉक्स को टिक या अनटिक रखता है।"
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(यदि अक्षम किया गया है, तो पॉपअप खोलने पर पासवर्ड चेकबॉक्स डिफ़ॉल्ट रूप से बंद हो जाता है।)"
+  },
+  "label_save_password":{
+    "message":"पासवर्ड सहेजें:"
+  },
+  "desc_save_password":{
+    "message":"आपका सबसे हाल का पासवर्ड सहेजता है ताकि एन्क्रिप्ट या डिक्रिप्ट करते समय आपको इसे फिर से टाइप न करना पड़े।"
+  },
+  "desc_save_password_subtext":{
+    "message":"(इस विकल्प को अक्षम करने पर सहेजा गया पासवर्ड हटा दिया जाता है।)"
+  },
+  "btn_reset":{
+    "message":"रीसेट करें"
+  },
+  "link_homepage":{
+    "message":"Cunny Code होमपेज"
+  },
+  "arona_dialogue_1":{
+    "message":"नमस्ते, सेंसई!"
+  },
+  "arona_dialogue_2":{
+    "message":"आप इस पृष्ठ पर Cunny Translate के लिए विकल्प बदल सकते हैं।"
+  },
+  "label_auto_copy":{
+    "message":"स्वतः कॉपी:"
+  },
+  "desc_auto_copy":{
+    "message":"जब आप पॉपअप खोलते हैं, तो चयनित टेक्स्ट को स्वचालित रूप से कॉपी करके इनपुट फ़ील्ड में पेस्ट करें."
+  },
+  "label_context_menu":{
+    "message":"संदर्भ मेनू में दिखाएँ:"
+  },
+  "desc_context_menu":{
+    "message":"जब भी आप टेक्स्ट चयनित होने पर राइट क्लिक करते हैं, तो संदर्भ मेनू में Cunny Translate दिखाता है."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(इस विकल्प को बदलने से एक्सटेंशन पुनः लोड हो जाएगा और यह पेज अस्थायी रूप से बंद हो जाएगा।)"
+  },
+  "reset_prompt":{
+    "message":"इससे विकल्प अपने डिफ़ॉल्ट पर रीसेट हो जाएंगे और एक्सटेंशन पुनः लोड हो जाएगा। क्या आप जारी रखना चाहते हैं?"
+  }
+}

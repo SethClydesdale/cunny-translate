@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Terjemahan"
+  },
+  "ext_description":{
+    "message":"Penerjemah lucu dan asyik yang memudahkan Anda menerjemahkan Kode Cunny saat menjelajah web."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Kata Sandi"
+  },
+  "btn_encode":{
+    "message":"Encode"
+  },
+  "btn_decode":{
+    "message":"Decode"
+  },
+  "btn_swap":{
+    "message":"Tukar input dan output"
+  },
+  "btn_copy":{
+    "message":"Salin"
+  },
+  "btn_copy_success":{
+    "message":"Disalin!"
+  },
+  "btn_copy_fail":{
+    "message":"Gagal Disalin!"
+  },
+  "error_title":{
+    "message":"Kesalahan"
+  },
+  "error_body":{
+    "message":"Berikut ini tidak dapat dikodekan."
+  },
+  "footer_website":{
+    "message":"Kode Cunny"
+  },
+  "footer_options":{
+    "message":"Opsi Ekstensi"
+  },
+  "footer_donate":{
+    "message":"Donasi"
+  },
+  "title_options":{
+    "message":"Opsi Terjemahan Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Terjemahan otomatis:"
+  },
+  "desc_auto_translate":{
+    "message":"Secara otomatis mengodekan atau mendekode Kode Cunny saat teks dimasukkan ke dalam kolom input."
+  },
+  "label_keep_password_state":{
+    "message":"Ingat status kata sandi:"
+  },
+  "desc_keep_password_state":{
+    "message":"Menjaga kotak centang kata sandi tetap dicentang atau tidak dicentang tergantung pada preferensi Anda."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Jika dinonaktifkan, kotak centang kata sandi akan mati secara default setiap kali Anda membuka jendela pop-up.)"
+  },
+  "label_save_password":{
+    "message":"Simpan kata sandi:"
+  },
+  "desc_save_password":{
+    "message":"Menyimpan kata sandi terbaru Anda sehingga Anda tidak perlu mengetiknya lagi saat mengenkripsi atau mendekripsi."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Kata sandi yang disimpan akan dihapus setelah opsi ini dinonaktifkan.)"
+  },
+  "btn_reset":{
+    "message":"Atur ulang"
+  },
+  "link_homepage":{
+    "message":"Beranda Kode Cunny"
+  },
+  "arona_dialogue_1":{
+    "message":"Halo, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Anda dapat mengubah opsi untuk Terjemahan Cunny di halaman ini."
+  },
+  "label_auto_copy":{
+    "message":"Salin otomatis:"
+  },
+  "desc_auto_copy":{
+    "message":"Salin dan tempel teks yang dipilih secara otomatis ke dalam kolom input saat Anda membuka popup."
+  },
+  "label_context_menu":{
+    "message":"Tampilkan dalam menu konteks:"
+  },
+  "desc_context_menu":{
+    "message":"Tampilkan Cunny Terjemahan dalam menu konteks setiap kali Anda mengklik kanan saat teks dipilih."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Mengubah opsi ini akan memuat ulang ekstensi dan menutup halaman ini untuk sementara.)"
+  },
+  "reset_prompt":{
+    "message":"Ini akan mengatur ulang opsi ke default dan memuat ulang ekstensi. Apakah Anda ingin melanjutkan?"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny Translate"
+  },
+  "ext_description":{
+    "message":"Penterjemah comel dan lucu yang membolehkan anda menterjemah Kod Cunny dengan mudah semasa anda menyemak imbas web."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Kata laluan"
+  },
+  "btn_encode":{
+    "message":"Encode"
+  },
+  "btn_decode":{
+    "message":"Decode"
+  },
+  "btn_swap":{
+    "message":"Tukar input dan output"
+  },
+  "btn_copy":{
+    "message":"Salin"
+  },
+  "btn_copy_success":{
+    "message":"Disalin!"
+  },
+  "btn_copy_fail":{
+    "message":"Gagal Disalin!"
+  },
+  "error_title":{
+    "message":"Ralat"
+  },
+  "error_body":{
+    "message":"Yang berikut tidak dapat dikodkan."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Pilihan Sambungan"
+  },
+  "footer_donate":{
+    "message":"Menderma"
+  },
+  "title_options":{
+    "message":"Pilihan Cunny Translate"
+  },
+  "label_auto_translate":{
+    "message":"Autoterjemah:"
+  },
+  "desc_auto_translate":{
+    "message":"Mengekod atau menyahkod Kod Cunny secara automatik apabila teks dimasukkan ke dalam medan input."
+  },
+  "label_keep_password_state":{
+    "message":"Ingat keadaan kata laluan:"
+  },
+  "desc_keep_password_state":{
+    "message":"Memastikan kotak semak kata laluan ditandakan atau dinyahtandakan bergantung pada pilihan anda."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Jika dilumpuhkan, kotak semak kata laluan dimatikan secara lalai setiap kali anda membuka pop timbul.)"
+  },
+  "label_save_password":{
+    "message":"Simpan kata laluan:"
+  },
+  "desc_save_password":{
+    "message":"Menyimpan kata laluan terbaharu anda supaya anda tidak perlu menaipnya lagi semasa menyulitkan atau menyahsulit."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Kata laluan yang disimpan dipadamkan apabila pilihan ini dilumpuhkan.)"
+  },
+  "btn_reset":{
+    "message":"Tetapkan semula"
+  },
+  "link_homepage":{
+    "message":"Halaman Utama Kod Cunny"
+  },
+  "arona_dialogue_1":{
+    "message":"Hello, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Anda boleh menukar pilihan untuk Cunny Translate pada halaman ini."
+  },
+  "label_auto_copy":{
+    "message":"Autosalin:"
+  },
+  "desc_auto_copy":{
+    "message":"Salin dan tampal teks yang dipilih secara automatik ke dalam medan input apabila anda membuka pop timbul."
+  },
+  "label_context_menu":{
+    "message":"Tunjukkan dalam menu konteks:"
+  },
+  "desc_context_menu":{
+    "message":"Menunjukkan Cunny Translate dalam menu konteks apabila anda mengklik kanan semasa teks dipilih."
+  },
+  "desc_context_menu_subtext":{
+    "message":"(Menukar pilihan ini akan memuatkan semula sambungan dan menutup halaman ini buat sementara waktu.)"
+  },
+  "reset_prompt":{
+    "message":"Ini akan menetapkan semula pilihan kepada lalainya dan memuatkan semula sambungan. Adakah anda mahu meneruskan?"
+  }
+}

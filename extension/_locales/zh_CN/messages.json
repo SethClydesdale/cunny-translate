@@ -1,0 +1,107 @@
+{
+  "ext_name":{
+    "message":"Cunny 翻译"
+  },
+  "ext_description":{
+    "message":"这款可爱又有趣的翻译器可让您在浏览网页时轻松翻译 Cunny Code。"
+  },
+  "placeholder_input":{
+    "message":"输入"
+  },
+  "placeholder_output":{
+    "message":"输出"
+  },
+  "label_password":{
+    "message":"密码"
+  },
+  "btn_encode":{
+    "message":"编码"
+  },
+  "btn_decode":{
+    "message":"解码"
+  },
+  "btn_swap":{
+    "message":"交换输入和输出"
+  },
+  "btn_copy":{
+    "message":"复制"
+  },
+  "btn_copy_success":{
+    "message":"已复制！"
+  },
+  "btn_copy_fail":{
+    "message":"复制失败！"
+  },
+  "error_title":{
+    "message":"错误"
+  },
+  "error_body":{
+    "message":"无法编码以下内容。"
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"扩展选项"
+  },
+  "footer_donate":{
+    "message":"捐赠"
+  },
+  "title_options":{
+    "message":"Cunny 翻译选项"
+  },
+  "label_auto_translate":{
+    "message":"自动翻译："
+  },
+  "desc_auto_translate":{
+    "message":"在输入字段中输入文本时自动编码或解码 Cunny Code。"
+  },
+  "label_keep_password_state":{
+    "message":"记住密码状态："
+  },
+  "desc_keep_password_state":{
+    "message":"根据您的偏好，保持密码复选框处于勾选或取消勾选状态。"
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(如果禁用，每次打开弹出窗口时，密码复选框默认为关闭。)"
+  },
+  "label_save_password":{
+    "message":"保存密码："
+  },
+  "desc_save_password":{
+    "message":"保存您最近的密码，这样您在加密或解密时就不必再次输入密码。"
+  },
+  "desc_save_password_subtext":{
+    "message":"(禁用此选项后，保存的密码将被删除。)"
+  },
+  "btn_reset":{
+    "message":"重置"
+  },
+  "link_homepage":{
+    "message":"Cunny Code 主页"
+  },
+  "arona_dialogue_1":{
+    "message":"您好，Sensei！"
+  },
+  "arona_dialogue_2":{
+    "message":"您可以在此页面上更改 Cunny 翻译 的选项。"
+  },
+  "label_auto_copy":{
+    "message":"自动复制："
+  },
+  "desc_auto_copy":{
+    "message":"打开弹出窗口时，自动将选定的文本复制并粘贴到输入字段中。"
+  },
+  "label_context_menu":{
+    "message":"在上下文菜单中显示："
+  },
+  "desc_context_menu":{
+    "message":"在选定文本时，只要右键单击，就会在上下文菜单中显示 Cunny 翻译。"
+  },
+  "desc_context_menu_subtext":{
+    "message":"（更改此选项将重新加载扩展程序并暂时关闭此页面。）"
+  },
+  "reset_prompt":{
+    "message":"这会将选项重置为默认值并重新加载扩展程序。要继续吗？"
+  }
+}

@@ -1,0 +1,302 @@
+@keyframes fade-in {
+  from {
+    opacity:0;
+  }
+  
+  to {
+    opacity:1;
+  }
+}
+
+.fade-in {
+  animation:fade-in 1000ms;
+  opacity:1;
+}
+
+body {
+  background:url(../images/bg.png) 0% 80% no-repeat fixed #FFF;
+  background-size:cover;
+  display:flex;
+  min-height:100vh;
+  flex-direction:column;
+}
+
+header {
+  text-align:center;
+  min-height:150px;
+  padding:5px;
+  position:relative;
+  z-index:1;
+  overflow:hidden;
+  user-select:none;
+  pointer-events:none;
+}
+
+header h1 { margin:0; }
+
+a#fork-me {
+  color:#FFF;
+  background:#333;
+  font-size:18px;
+  font-weight:bold;
+  text-align:center;
+  text-transform:uppercase;
+  text-decoration:none;
+  line-height:30px;
+  height:30px;
+  width:200px;
+  transform:rotate(45deg);
+  position:absolute;
+  right:-55px;
+  top:30px;
+  transition-property:color, background;
+  transition-duration:300ms;
+  user-select:none;
+  pointer-events:all;
+}
+
+a#fork-me:hover, a#fork-me:focus {
+  color:#333;
+  background:#FFF;
+}
+
+#logo img {
+  height:150px;
+}
+
+.columns-2 > div {
+  width:50%;
+  margin:0 0 25px 0;
+  float:left;
+}
+
+label[for] { cursor:pointer; }
+
+.settings-label {
+  font-weight:bold;
+  width:30% !important;
+  margin-bottom:0 !important;
+}
+
+.settings-value {
+  width:70% !important;
+  margin-bottom:0 !important;
+}
+
+#content {
+  flex:1 0 auto;
+  padding:15px 0;
+}
+
+.content-block {
+  max-width:1000px;
+  margin:0 auto;
+}
+
+/* encoder layout */
+#encoder {
+  width:550px;
+  margin:15px 0;
+  float:right;
+}
+
+#encoder textarea {
+  height:120px;
+}
+
+#encoder .menu-inner { position:relative; }
+
+#arona {
+  width:400px;
+  height:400px;
+  margin-bottom:200px !important;
+  float:left;
+  position:relative;
+  user-select:none;
+}
+
+#arona_inner {
+  width:400px;
+  height:400px;
+  position:fixed;
+  bottom:35%;
+}
+
+#arona_body { position:relative; }
+
+#arona #holo {
+  width:400px;
+  position:absolute;
+  pointer-events:none;
+}
+
+#dialogue_container {
+  position:absolute;
+  left:0;
+  right:0;
+  margin-top:270px;
+  text-align:center;
+}
+#dialogue_container.fade-out { pointer-events:none; }
+
+#dialogue, .dialogue {
+  color:#29415A;
+  font-size:21px;
+  font-family:"Noto Sans", "Segoe UI", Helvetica, Arial, sans-serif, Twemoji, "Apple Color Emoji", "Segoe UI Emoji";
+  text-align:center;
+  background:#EEE;
+  background:rgba(245, 245, 245, 0.9);
+  box-shadow:0px 1px 3px rgba(0, 0, 0, 0.7);
+  border:2px solid #FEFEFD;
+  border:2px solid rgba(250, 250, 250, 0.7);
+  border-radius:30px;
+  display:inline-block;
+  position:relative;
+  padding:10px;
+}
+
+/* dialogue arrow */
+#dialogue:after, .dialogue:after {
+  content:"";
+  border-bottom:20px solid #edf6f6;
+  border-right:10px solid transparent;
+  border-left:10px solid transparent;
+  position:absolute;
+  top:-20px;
+  left:50%;
+  margin-left:-10px;
+}
+
+#dialogue:before, .dialogue:before {
+  content:"";
+  border-bottom:20px solid #333;
+  border-bottom:20px solid rgba(50, 50, 50, 0.5);
+  border-right:10px solid transparent;
+  border-left:10px solid transparent;
+  position:absolute;
+  top:-22px;
+  left:50%;
+  margin-left:-10px;
+}
+
+#dialogue.hidden, .dialogue.hidden {
+  opacity:0;
+}
+
+/* menus */
+.menu {
+  margin:15px;
+  padding:15px;
+  border-radius:10px;
+  background:#333;
+  background:rgba(50, 50, 50, 0.3)
+}
+
+.menu-inner {
+  min-height:300px;
+  padding:5px;
+  border-radius:10px;
+  border:2px solid #FEFEFD;
+  box-shadow:0px 5px 0px rgba(50, 50, 50, 0.7);
+  background:#EFF5F6;
+}
+
+h2, h3 {
+  color:#2C4662;
+  border-bottom:2px solid #ABB7C3;
+  margin-top:0;
+  margin-bottom:10px;
+}
+
+
+/* RESPONSIVENESS */
+@media (min-width:2201px) {
+  /* Arona size increase on screens 2200px+ */
+  #arona {
+    height:600px;
+    width:600px;
+    margin-left:-200px;
+    margin-bottom:300px !important;
+  }
+  
+  #arona_inner {
+    width:600px;
+    height:600px;
+  }
+  
+  #arona #holo {
+    width:600px;
+    position:absolute;
+  }
+  
+  #dialogue_container { margin-top:395px; }
+  #dialogue, .dialogue { font-size:24px; }
+}
+
+/* Arona size increase on screens 1750-2200px+ */
+@media (min-width:1750px) and (max-width:2200px) {
+  #arona {
+    height:500px;
+    width:500px;
+    margin-left:-100px;
+    margin-bottom:250px !important;
+  }
+  
+  #arona_inner {
+    width:500px;
+    height:500px;
+  }
+  
+  #arona #holo {
+    width:500px;
+    position:absolute;
+  }
+  
+  #dialogue_container { margin-top:330px; }
+  #dialogue, .dialogue { font-size:22.5px; }
+}
+
+/* lowers arona down or pins her to the top if the minimum height is too low */
+@media ((max-height:920px) and (min-width:2201px)) or ((max-height:770px) and (min-width:1750px) and (max-width:2200px)) or ((max-height:610px) and (max-width:1749px)) {
+  #arona_inner { bottom:25%; }
+}
+
+@media ((max-height:800px) and (min-width:2201px)) or ((max-height:660px) and (min-width:1750px) and (max-width:2200px)) or ((max-height:530px) and (max-width:1749px)) {
+  #arona_inner {
+    bottom:auto;
+    top:0;
+  }
+}
+
+/* other responsive styles */
+@media (max-width:1060px) {
+  #content { padding:20px; }
+  
+  /* display columns below one another */
+  /*.columns-2 > div, .dictionary-group {
+    float:none;
+    width:100%;
+  }*/
+  
+  #encoder, #arona {
+    float:none;
+    margin:15px auto;
+    max-width:90%;
+  }
+  
+  #arona_inner { position:static; }
+  
+  #content { overflow:hidden; }
+}
+
+@media (max-width:450px) {
+  #arona #holo {
+    left:-30px;
+  }
+}
+
+@media (max-width:350px) {
+  #arona #holo {
+    left:-85px;
+  }
+}

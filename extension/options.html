@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Cunny Translate Options</title>
+    <link rel="stylesheet" href="resources/styles/main.css">
+    <link rel="stylesheet" href="resources/styles/options.css">
+  </head>
+
+  <body>
+    <header>
+      <h1><span id="logo"><img src="resources/images/logo.png" alt="Cunny Translate"></span></h1>
+      <a id="fork-me" href="https://github.com/SethClydesdale/cunny-translate" target="_blank">Fork Me</a>
+    </header>
+    
+    <div id="content">
+      <div class="content-block clear">
+        <div id="encoder" class="menu">
+          <div class="menu-inner">
+            <h2 id="options_title">Cunny Translate Options</h2>
+            
+            <div class="columns-2 clear">
+              <div class="settings-label"><label for="auto_translate" id="label_auto_translate">Auto translate:</label></div>
+              <div class="settings-value">
+                <div class="columns-2">
+                  <div style="width:8%"><input id="auto_translate" type="checkbox" class="encoder_setting input_hidden"><span tabindex="0" class="pseudo_checkbox"></span></div>
+                  <div style="width:92%" id="desc_auto_translate">Automatically encodes or decodes Cunny Code when text is entered into the input field.</div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="columns-2 clear">
+              <div class="settings-label"><label for="auto_copy" id="label_auto_copy">Auto copy:</label></div>
+              <div class="settings-value">
+                <div class="columns-2">
+                  <div style="width:8%"><input id="auto_copy" type="checkbox" class="encoder_setting input_hidden"><span tabindex="0" class="pseudo_checkbox"></span></div>
+                  <div style="width:92%" id="desc_auto_copy">Automatically copy and paste selected text into the input field when you open the popup.</div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="columns-2 clear">
+              <div class="settings-label"><label for="keep_password_state" id="label_keep_password_state">Remember password state:</label></div>
+              <div class="settings-value">
+                <div class="columns-2">
+                  <div style="width:8%"><input id="keep_password_state" type="checkbox" class="encoder_setting input_hidden"><span tabindex="0" class="pseudo_checkbox"></span></div>
+                  <div style="width:92%"><span id="desc_keep_password_state">Keeps the password checkbox ticked or unticked depending on your preference.</span><br><small id="desc_keep_password_state_subtext">(If disabled, the password checkbox defaults to off every time you open the popup.)</small></div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="columns-2 clear">
+              <div class="settings-label"><label for="save_password" id="label_save_password">Save password:</label></div>
+              <div class="settings-value">
+                <div class="columns-2">
+                  <div style="width:8%"><input id="save_password" type="checkbox" class="encoder_setting input_hidden"><span tabindex="0" class="pseudo_checkbox"></span></div>
+                  <div style="width:92%"><span id="desc_save_password">Saves your most recent password so you don't have to type it again when encrypting or decrypting.</span><br><small id="desc_save_password_subtext">(The saved password is deleted upon disabling this option.)</small></div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="columns-2 clear">
+              <div class="settings-label"><label for="context_menu" id="label_context_menu">Show in context menu:</label></div>
+              <div class="settings-value">
+                <div class="columns-2">
+                  <div style="width:8%"><input id="context_menu" type="checkbox" class="encoder_setting input_hidden"><span tabindex="0" class="pseudo_checkbox"></span></div>
+                  <div style="width:92%"><span id="desc_context_menu">Shows Cunny Translate in the context menu whenever you right click while text is selected.</span><br><small id="desc_context_menu_subtext">(Changing this option will reload the extension and close this page temporarily.)</small></div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="center">
+              <button id="reset-settings"><i>Reset</i></button>
+            </div>
+            <br>
+            <div class="center"><a href="https://sethclydesdale.github.io/cunny-code/?source=cunny_translate" target="_blank" id="homepage_link">Cunny Code Homepage</a></div>
+          </div>
+        </div>
+    
+        <div id="arona">
+          <div id="arona_inner">
+            <div id="arona_body">
+              <img id="holo" src="resources/images/1.png" alt="Arona">
+            </div>
+            <div id="dialogue_container" class="fade-in">
+              <div id="dialogue">
+                <span id="arona_dialogue_1">Hello, Sensei!</span><br>
+                <span id="arona_dialogue_2">You can change the options for Cunny Translate on this page.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="clear">
+      Made with <img src="resources/images/arisu.gif" alt="Cunny" title="Cunny" style="vertical-align:middle;height:40px;"> and Love
+    </footer>
+    
+    <script src="resources/scripts/options.js"></script>
+  </body>
+</html>

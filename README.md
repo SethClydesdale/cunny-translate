@@ -19,7 +19,6 @@ For tips and tricks on using this extension, please see the first section below.
 **Quick Links**
 - [How Do I Use Cunny Translate?](#how-do-i-use-cunny-translate)
 - [Suggestions, Feedback, Bug Reports](#suggestions-feedback-bug-reports)
-- [The Great Decoding Experiment](#the-great-decoding-experiment)
 - [Special Thanks](#special-thanks)
 - [Donate](#donate)
 

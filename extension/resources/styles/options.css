@@ -8,9 +8,46 @@
   }
 }
 
+@keyframes fade-out {
+  from {
+    opacity:1;
+  }
+  
+  to {
+    opacity:0;
+  }
+}
+
+@keyframes jump {
+  0% {
+    top:0px;
+  }
+  
+  25% {
+    top:15px;
+  }
+  
+  50% {
+    top:0px;
+  }
+  
+  75% {
+    top:-15px;
+  }
+  
+  100% {
+    top:0px;
+  }
+}
+
 .fade-in {
   animation:fade-in 1000ms;
   opacity:1;
+}
+
+.fade-out {
+  animation:fade-out 1000ms;
+  opacity:0;
 }
 
 body {
@@ -123,11 +160,27 @@ label[for] { cursor:pointer; }
 }
 
 #arona_body { position:relative; }
+#arona_body.jump { animation:jump 500ms ease-in-out; }
 
 #arona #holo {
   width:400px;
   position:absolute;
   pointer-events:none;
+}
+
+.arona_action {
+  position:absolute;
+  opacity:0;
+  cursor:pointer;
+}
+
+#arona_head {
+  top:73px;
+  left:155px;
+  height:80px;
+  width:120px;
+  border-radius:100%;
+  transform:rotate(10deg);
 }
 
 #dialogue_container {
@@ -229,6 +282,15 @@ h2, h3 {
     position:absolute;
   }
   
+  #arona_head {
+    top:106px;
+    left:233px;
+    height:130px;
+    width:180px;
+    border-radius:100%;
+    transform:rotate(10deg);
+  }
+  
   #dialogue_container { margin-top:395px; }
   #dialogue, .dialogue { font-size:24px; }
 }
@@ -250,6 +312,15 @@ h2, h3 {
   #arona #holo {
     width:500px;
     position:absolute;
+  }
+  
+  #arona_head {
+    top:89px;
+    left:194px;
+    height:110px;
+    width:150px;
+    border-radius:100%;
+    transform:rotate(10deg);
   }
   
   #dialogue_container { margin-top:330px; }

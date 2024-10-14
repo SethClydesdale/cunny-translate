@@ -4,7 +4,7 @@ Cunny Translate is a cute and funny browser extension that lets you easily trans
 
 **Google Chrome:** Awaiting Approval
 
-**Firefox:** Awaiting Approval
+**Firefox:** https://addons.mozilla.org/en-US/firefox/addon/cunny-translate/
 
 Once you have it installed, you can give it a try by decoding the following message!
 

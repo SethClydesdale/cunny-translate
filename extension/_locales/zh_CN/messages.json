@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"在选定文本时，只要右键单击，就会在上下文菜单中显示 Cunny 翻译。"
   },
-  "desc_context_menu_subtext":{
-    "message":"（更改此选项将重新加载扩展程序并暂时关闭此页面。）"
-  },
   "reset_prompt":{
-    "message":"这会将选项重置为默认值并重新加载扩展程序。要继续吗？"
+    "message":"这会将所有选项重置为默认值。要继续吗？"
   }
 }

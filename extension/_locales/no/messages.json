@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Viser Cunny Oversetter i kontekstmenyen hver gang du høyreklikker mens tekst er valgt."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Endring av dette alternativet vil laste utvidelsen på nytt og lukke denne siden midlertidig.)"
-  },
   "reset_prompt":{
-    "message":"Dette vil tilbakestille alternativene til standardinnstillingene og laste utvidelsen på nytt. Vil du fortsette?"
+    "message":"Dette vil tilbakestille alle alternativene til standardinnstillingene. Vil du fortsette?"
   }
 }

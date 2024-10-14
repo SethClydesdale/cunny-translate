@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Pokazuje Tłumacz Cunny w menu kontekstowym po kliknięciu prawym przyciskiem myszy, gdy tekst jest zaznaczony."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Zmiana tej opcji spowoduje ponowne załadowanie rozszerzenia i tymczasowe zamknięcie tej strony.)"
-  },
   "reset_prompt":{
-    "message":"Spowoduje to zresetowanie opcji do ustawień domyślnych i ponowne załadowanie rozszerzenia. Czy chcesz kontynuować?"
+    "message":"Spowoduje to zresetowanie wszystkich opcji do ich ustawień domyślnych. Czy chcesz kontynuować?"
   }
 }

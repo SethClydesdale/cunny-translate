@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Affiche Cunny Traduction dans le menu contextuel chaque fois que vous faites un clic droit alors que le texte est sélectionné."
   },
-  "desc_context_menu_subtext":{
-    "message":"(La modification de cette option rechargera l'extension et fermera temporairement cette page.)"
-  },
   "reset_prompt":{
-    "message":"Cela réinitialisera les options à leurs valeurs par défaut et rechargera l'extension. Voulez-vous continuer ?"
+    "message":"Cela réinitialisera toutes les options à leurs valeurs par défaut. Voulez-vous continuer ?"
   }
 }

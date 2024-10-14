@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Hiển thị Cunny Dịch trong menu ngữ cảnh bất cứ khi nào bạn nhấp chuột phải khi văn bản được chọn."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Thay đổi tùy chọn này sẽ tải lại tiện ích mở rộng và đóng trang này tạm thời.)"
-  },
   "reset_prompt":{
-    "message":"Điều này sẽ đặt lại các tùy chọn về mặc định và tải lại tiện ích mở rộng. Bạn có muốn tiếp tục không?"
+    "message":"Thao tác này sẽ thiết lập lại tất cả các tùy chọn về mặc định. Bạn có muốn tiếp tục không?"
   }
 }

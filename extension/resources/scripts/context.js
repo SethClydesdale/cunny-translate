@@ -8,25 +8,13 @@ chrome.runtime.onInstalled.addListener(function () {
         contexts : ["selection"]
       });
     } else {
-      try { // required for Firefox as it doesn't remove the context item when reloading the extension
+      try {
         chrome.contextMenus.remove("cunny_translate");
       } catch (err) {
         console.log(err);
       }
     }
   });
-  
-  // reopens the option page if reloaded
-  chrome.storage.sync.get('reloaded', function (data) {
-    if (data.reloaded == true) {
-      chrome.storage.sync.set({
-        reloaded : false
-      });
-      
-      chrome.runtime.openOptionsPage();
-    }
-  });
-  
 });
 
 // open the popup when context menu is clicked

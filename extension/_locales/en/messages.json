@@ -105,7 +105,7 @@
   },
   
   "label_keep_password_state" : {
-    "message" : "Remember password state:",
+    "message" : "Keep password state:",
     "description" : "Label texts for the password state option."
   },
   
@@ -144,18 +144,13 @@
     "description" : "Description for the context option."
   },
   
-  "desc_context_menu_subtext" : {
-    "message" : "(Changing this option will reload the extension and close this page temporarily.)",
-    "description" : "Additional description for the context menu option."
-  },
-  
   "btn_reset" : {
     "message" : "Reset",
     "description" : "Texts for the options reset button."
   },
   
   "reset_prompt" : {
-    "message" : "This will reset the options to their defaults and reload the extension. Do you want to continue?",
+    "message" : "This will reset all of the options to their defaults. Do you want to continue?",
     "description" : "Prompt that displays when the reset options button is clicked."
   },
   

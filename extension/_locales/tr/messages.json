@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Metin seçiliyken sağ tıkladığınızda bağlam menüsünde Cunny Çeviri gösterilir."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Bu seçeneği değiştirmek uzantıyı yeniden yükleyecek ve bu sayfayı geçici olarak kapatacaktır.)"
-  },
   "reset_prompt":{
-    "message":"Bu, seçenekleri varsayılanlarına sıfırlayacak ve uzantıyı yeniden yükleyecektir. Devam etmek istiyor musunuz?"
+    "message":"Bu, tüm seçenekleri varsayılanlarına sıfırlayacaktır. Devam etmek istiyor musunuz?"
   }
 }

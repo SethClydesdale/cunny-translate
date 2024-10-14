@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Mostra o Cunny Tradutor no menu de contexto sempre que clica com o botão direito do rato enquanto o texto está seleccionado."
   },
-  "desc_context_menu_subtext":{
-    "message":"(A alteração desta opção irá recarregar a extensão e fechar esta página temporariamente.)"
-  },
   "reset_prompt":{
-    "message":"Isto irá repor as opções para os seus padrões e recarregar a extensão. Deseja continuar?"
+    "message":"Isto irá redefinir todas as opções para os seus padrões. Quer continuar?"
   }
 }

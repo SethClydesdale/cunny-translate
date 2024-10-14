@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Tampilkan Cunny Terjemahan dalam menu konteks setiap kali Anda mengklik kanan saat teks dipilih."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Mengubah opsi ini akan memuat ulang ekstensi dan menutup halaman ini untuk sementara.)"
-  },
   "reset_prompt":{
-    "message":"Ini akan mengatur ulang opsi ke default dan memuat ulang ekstensi. Apakah Anda ingin melanjutkan?"
+    "message":"Ini akan mengatur ulang semua opsi ke default. Apakah Anda ingin melanjutkan?"
   }
 }

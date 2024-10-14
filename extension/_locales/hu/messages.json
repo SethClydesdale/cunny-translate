@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Megjeleníti a Cunny Fordító-t a helyi menüben, amikor jobb gombbal kattint, miközben szöveg ki van jelölve."
   },
-  "desc_context_menu_subtext":{
-    "message":"(A beállítás módosítása újra betölti a bővítményt, és ideiglenesen bezárja ezt az oldalt.)"
-  },
   "reset_prompt":{
-    "message":"Ez visszaállítja a beállításokat az alapértelmezett értékekre, és újratölti a bővítményt. Folytatja?"
+    "message":"Ezzel az összes beállítást visszaállítja az alapértelmezett értékre. Folytatja?"
   }
 }

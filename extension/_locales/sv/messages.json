@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Visar Cunny Översätt i snabbmenyn när du högerklickar medan text är markerad."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Om du ändrar det här alternativet kommer tillägget att laddas om och den här sidan stängas tillfälligt.)"
-  },
   "reset_prompt":{
-    "message":"Detta kommer att återställa alternativen till deras standardinställningar och ladda om tillägget. Vill du fortsätta?"
+    "message":"Detta kommer att återställa alla alternativ till deras standardinställningar. Vill du fortsätta?"
   }
 }

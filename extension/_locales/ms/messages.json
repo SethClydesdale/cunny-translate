@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Menunjukkan Cunny Translate dalam menu konteks apabila anda mengklik kanan semasa teks dipilih."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Menukar pilihan ini akan memuatkan semula sambungan dan menutup halaman ini buat sementara waktu.)"
-  },
   "reset_prompt":{
-    "message":"Ini akan menetapkan semula pilihan kepada lalainya dan memuatkan semula sambungan. Adakah anda mahu meneruskan?"
+    "message":"Ini akan menetapkan semula semua pilihan kepada lalainya. Adakah anda mahu teruskan?"
   }
 }

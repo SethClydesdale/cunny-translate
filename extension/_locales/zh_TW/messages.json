@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"只要在選擇文字時右鍵單擊，就會在上下文選單中顯示 Cunny 翻譯。"
   },
-  "desc_context_menu_subtext":{
-    "message":"(更改此選項將重新載入擴充功能並暫時關閉此頁面。)"
-  },
   "reset_prompt":{
-    "message":"這會將選項重設為預設值並重新載入擴充功能。您想繼續嗎？"
+    "message":"這會將所有選項重設為其預設值。您想繼續嗎？"
   }
 }

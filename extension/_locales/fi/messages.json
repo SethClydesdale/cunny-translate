@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Näyttää Cunny Kääntäjä-sovelluksen kontekstivalikossa aina, kun napsautat hiiren kakkospainikkeella tekstiä valittuna."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Tämän vaihtoehdon muuttaminen lataa laajennuksen uudelleen ja sulkee tämän sivun väliaikaisesti.)"
-  },
   "reset_prompt":{
-    "message":"Tämä palauttaa asetukset oletusarvoihinsa ja lataa laajennuksen uudelleen. Haluatko jatkaa?"
+    "message":"Tämä palauttaa kaikki asetukset oletusarvoihinsa. Haluatko jatkaa?"
   }
 }

@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Muestra Traductor de Cunny en el menú contextual cada vez que haces clic derecho mientras el texto está seleccionado."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Si cambia esta opción, se volverá a cargar la extensión y se cerrará esta página temporalmente.)"
-  },
   "reset_prompt":{
-    "message":"Esto restablecerá las opciones a sus valores predeterminados y volverá a cargar la extensión. ¿Desea continuar?"
+    "message":"Esto restablecerá todas las opciones a sus valores predeterminados. ¿Quieres continuar?"
   }
 }

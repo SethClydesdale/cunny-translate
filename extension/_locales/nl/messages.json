@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Toont Cunny Translate in het contextmenu wanneer u met de rechtermuisknop klikt terwijl de tekst is geselecteerd."
   },
-  "desc_context_menu_subtext":{
-    "message":"(Als u deze optie wijzigt, wordt de extensie opnieuw geladen en wordt deze pagina tijdelijk gesloten.)"
-  },
   "reset_prompt":{
-    "message":"Hiermee worden de opties teruggezet naar de standaardinstellingen en wordt de extensie opnieuw geladen. Wilt u doorgaan?"
+    "message":"Hiermee worden alle opties teruggezet naar hun standaardinstellingen. Wilt u doorgaan?"
   }
 }

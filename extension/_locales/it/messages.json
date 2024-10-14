@@ -98,10 +98,7 @@
   "desc_context_menu":{
     "message":"Mostra Cunny vertėjas nel menu contestuale ogni volta che fai clic con il pulsante destro del mouse mentre è selezionato del testo."
   },
-  "desc_context_menu_subtext":{
-    "message":"(La modifica di questa opzione ricaricherà l'estensione e chiuderà temporaneamente questa pagina.)"
-  },
   "reset_prompt":{
-    "message":"Questo ripristinerà le opzioni ai valori predefiniti e ricaricherà l'estensione. Vuoi continuare?"
+    "message":"Questo ripristinerà tutte le opzioni ai valori predefiniti. Vuoi continuare?"
   }
 }

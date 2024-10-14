@@ -98,10 +98,7 @@
   "desc_context_menu":{
      "message":"Zeigt Cunny Übersetzer im Kontextmenü an, wenn Sie mit der rechten Maustaste klicken, während Text ausgewählt ist."
   },
-  "desc_context_menu_subtext":{
-     "message":"(Wenn Sie diese Option ändern, wird die Erweiterung neu geladen und diese Seite vorübergehend geschlossen.)"
-  },
   "reset_prompt":{
-     "message":"Dadurch werden die Optionen auf ihre Standardwerte zurückgesetzt und die Erweiterung neu geladen. Möchten Sie fortfahren?"
+     "message":"Dadurch werden alle Optionen auf die Standardeinstellungen zurückgesetzt. Möchten Sie fortfahren?"
   }
 }

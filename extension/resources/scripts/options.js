@@ -1,6 +1,124 @@
 (function (window, document) {
   'use strict';
   
+  // functions for interacting with Arona on the options page
+  window.Arona = {
+    // HTML node cache
+    node : {
+      arona : document.getElementById('arona'),
+      holo : document.getElementById('holo'),
+      body : document.getElementById('arona_body'),
+      
+      dialogue_container : document.getElementById('dialogue_container'),
+      dialogue : document.getElementById('dialogue')
+    },
+    
+    // make Arona say something
+    // text: STRING of any dialogue you want
+    // holo: NUMBER used to display her holo image (see resources/images) [optional]
+    // duration: NUMBER of how long you want your message to stay on screen. [optional] (pass Infinity to remove duration)
+    // example Arona.say('I love strawberry milk...', 23, 5000); // 5000 = 5 seconds
+    messageTimeout : null,
+    messageDuration : 10000,
+    say : function (text, holo, duration, callback) {
+      if (!Arona.node.dialogue) return 'dialogue not found';
+      
+      // assigns passed array values to their corresponding argument
+      if (Array.isArray(text)) {
+        callback = text[3] ? text[3] : null;
+        duration = text[2] ? text[2] : Arona.messageDuration;
+            holo = text[1] ? text[1] : 1;
+            text = text[0] ? text[0] : '';
+      }
+      
+      // default values
+      else {
+        holo = holo ? holo : 1;
+        duration = duration ? duration : Arona.messageDuration;
+      }
+      
+      // standard image and dialogue change
+      Arona.expression(holo);
+      Arona.node.dialogue.innerText = text;
+      
+      // remove classes on arona from interactions
+      if (Arona.node.body.className) {
+        Arona.node.body.className = '';
+      }
+      
+      // delete duration timeout if present
+      if (Arona.messageTimeout) {
+        clearTimeout(Arona.messageTimeout);
+        delete Arona.messageTimeout;
+      }
+      
+      // show the dialogue by fading it in
+      Arona.node.dialogue_container.className = 'fade-in';
+      
+      if (duration != Infinity) {
+        // hide the dialogue after the specified duration
+        Arona.messageTimeout = setTimeout(function () {
+          Arona.expression(1);
+          Arona.node.dialogue_container.className = 'fade-out';
+          delete Arona.timeout;
+          
+          if (callback) {
+            callback();
+          }
+        }, duration);
+      } else if (callback) {
+        callback();
+      }
+    },
+    
+    // changes Arona's expression
+    // id can be 1, 13, or 31 for this extension
+    expression : function (id) {
+      if (Arona.node.holo) {
+        Arona.node.holo.src = 'resources/images/' + (id > 35 ? 1 : id <= 0 ? 1 : id) + '.png';
+      }
+    },
+    
+    // audio files for arona's voice module
+    voice : {
+      heeheehee : new Audio('resources/audio/heeheehee.ogg')
+    },
+    
+    // make arona speak (audibly)
+    // uses voice files above, so file == the object key for voice (Arona.speak('heeeheehee'))
+    speak : function (file) {
+      // stop any audio currently playing
+      for (var k in Arona.voice) {
+        if (!Arona.voice[k].paused) {
+          Arona.voice[k].pause();
+        }
+      }
+      
+      // play the specified audio file
+      Arona.voice[file].load();
+      Arona.voice[file].play();
+    },
+    
+    // headpats Arona
+    headpat : function () {
+      Arona.say("Heeheehee...", 13);
+      
+      setTimeout(function () {
+        Arona.node.body.className = 'jump';
+        Arona.speak('heeheehee');
+      }, 100); // slight delay required in case applying the same class that was removed in Arona.say
+    }
+  };
+  
+  // set and normalize audio volume
+  for (var k in Arona.voice) {
+    Arona.voice[k].volume = 0.4;
+  }
+  
+  // headpat handler for Arona's head
+  document.getElementById('arona_head').onclick = Arona.headpat;
+  
+  
   // apply checkbox event handlers
   for (var a = document.querySelectorAll('.pseudo_checkbox'), i = 0, j = a.length; i < j; i++) {
     a[i].onclick = function () {
@@ -36,12 +154,23 @@
   // context menu setting handler
   document.getElementById('context_menu').onchange = function (e) {
     chrome.storage.sync.set({
-      context_menu : this.checked,
-      reloaded : true
+      context_menu : this.checked
     });
     
-    // reload extension to apply this change
-    chrome.runtime.reload();
+    // either add or remove the context menu
+    if (this.checked == true) {
+      chrome.contextMenus.create({
+        id : "cunny_translate",
+        title : chrome.i18n.getMessage("ext_name"),
+        contexts : ["selection"]
+      });
+    } else {
+      try {
+        chrome.contextMenus.remove("cunny_translate");
+      } catch (err) {
+        console.log(err);
+      }
+    }
   };
   
   
@@ -73,7 +202,7 @@
   
   // reset settings
   document.getElementById('reset-settings').onclick = function () {
-    if (!confirm(chrome.i18n.getMessage("reset_prompt") || "This will reset the options to their defaults and reload the extension. Do you want to continue?")) return false;
+    if (!confirm(chrome.i18n.getMessage("reset_prompt") || "This will reset all of the options to their defaults. Do you want to continue?")) return false;
     
     // reset checkbox states
     document.getElementById('auto_translate').checked = true;
@@ -94,11 +223,15 @@
       save_password : false,
       password_key : '',
       
-      context_menu : true,
-      reloaded : true
+      context_menu : true
     });
     
-    chrome.runtime.reload();
+    // create context menu item
+    chrome.contextMenus.create({
+      id : "cunny_translate",
+      title : chrome.i18n.getMessage("ext_name"),
+      contexts : ["selection"]
+    });
   };
   
   
@@ -122,7 +255,6 @@
 
   document.getElementById('label_context_menu').innerText = chrome.i18n.getMessage("label_context_menu") || 'Show in context menu:';
   document.getElementById('desc_context_menu').innerText = chrome.i18n.getMessage("desc_context_menu") || "Shows Cunny Translate in the context menu whenever you right click while text is selected.";
-  document.getElementById('desc_context_menu_subtext').innerText = chrome.i18n.getMessage("desc_context_menu_subtext") || '(Changing this option will reload the extension and close this page temporarily.)';
 
   document.getElementById('reset-settings').firstChild.innerText = chrome.i18n.getMessage("btn_reset") || 'Reset';
 
@@ -130,4 +262,11 @@
 
   document.getElementById('arona_dialogue_1').innerText = chrome.i18n.getMessage("arona_dialogue_1") || 'Hello, Sensei!';
   document.getElementById('arona_dialogue_2').innerText = chrome.i18n.getMessage("arona_dialogue_2") || 'You can change the options for Cunny Translate on this page.';
+  
+  
+  // change Arona to default state after 30 seconds
+  Arona.messageTimeout = setTimeout(function () {
+    Arona.node.dialogue_container.className = 'fade-out';
+    Arona.expression(1);
+  }, 30000);
 }(window, document));

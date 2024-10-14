@@ -113,6 +113,12 @@ label[for] { cursor:pointer; }
   font-weight:bold;
   width:30% !important;
   margin-bottom:0 !important;
+  text-align:right;
+}
+
+.settings-label label {
+  display:inline-block;
+  padding-right:5px;
 }
 
 .settings-value {

@@ -6,6 +6,8 @@ Cunny Translate is a cute and funny browser extension that lets you easily trans
 
 **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/cunny-translate/
 
+Additionally, you can install Cunny Translate from GitHub. Please see [this section](#how-to-install-cunny-translate-from-github) for a tutorial on how to install this extension from GitHub. 
+
 Once you have it installed, you can give it a try by decoding the following message!
 
 ```
@@ -17,13 +19,14 @@ For tips and tricks on using this extension, please see the first section below.
 -----
 
 **Quick Links**
-- [How Do I Use Cunny Translate?](#how-do-i-use-cunny-translate)
+- [How to Use Cunny Translate](#how-to-use-cunny-translate)
+- [How to Install Cunny Translate from GitHub](#how-to-install-cunny-translate-from-github)
 - [Suggestions, Feedback, Bug Reports](#suggestions-feedback-bug-reports)
 - [Special Thanks](#special-thanks)
 - [Donate](#donate)
 
 
-### How Do I Use Cunny Translate?
+### How to Use Cunny Translate
 
 Cunny Translate is a fairly straightforward extension for translating to and from [Cunny Code](https://github.com/SethClydesdale/cunny-code?tab=readme-ov-file#what-is-cunny-code).
 
@@ -42,6 +45,25 @@ Additionally, you can encrypt your messages with a password, so only those who k
 Lastly, you can customize the way Cunny Translate works by clicking the "Extension Options" link in the popup window's footer. There's a number of options to customize your experience, so be sure to check out this page first!
 
 <p align="center"><img src="readme-assets/demo-options.png"></p>
+
+
+### How to Install Cunny Translate from GitHub
+To install Cunny Translate from GitHub, head on over to the [releases page](https://github.com/SethClydesdale/cunny-translate/releases) and grab either **chromium.zip**, if you use Google Chrome, or **firefox.signed.xpi**, if you use Firefox, from the latest release. Installation differs depending on the browser, so follow the instructions for your preferred browser below.
+
+#### Google Chrome
+1. Unzip the add-on into a folder somewhere safe.
+2. Open Google Chrome and go to the Extensions page.
+3. Enable "Developer mode" by clicking the button in the top right of the page.
+4. Click "Load unpacked" from the top left.
+5. Select the folder where you unzipped Cunny Translate to install it.
+6. You're ready to translate Cunny!
+
+#### Firefox
+1. Open Firefox and go to the extensions page.
+2. Drag and drop the XPI file into the Firefox browser window. **OR** Click the cog icon and choose "Install add-on from file" and select the XPI file.
+3. Click "add" in the popup that appears to install Cunny Translate.
+4. You're ready to translate Cunny!
+
 
 ### Suggestions, Feedback, Bug Reports
 If you have any suggestions, feedback, questions, or bugs to report, feel free to [open a new issue](https://github.com/SethClydesdale/cunny-translate/issues) in this repository so we can correct those naughty bugs💢💢💢

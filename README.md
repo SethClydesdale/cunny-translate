@@ -66,7 +66,7 @@ To install Cunny Translate from GitHub, head on over to the [releases page](http
 
 
 ### Suggestions, Feedback, Bug Reports
-If you have any suggestions, feedback, questions, or bugs to report, feel free to [open a new issue](https://github.com/SethClydesdale/cunny-translate/issues) in this repository so we can correct those naughty bugs💢💢💢
+If you have any suggestions, feedback, questions, or bugs to report, feel free to [open a new issue](https://github.com/SethClydesdale/cunny-translate/issues) in this repository so we can correct those naughty bugs💢💢💢 You can also find additional reporting methods [here](https://sethclydesdale.github.io/cunny-code/report/) if you do not have a GitHub account.
 
 
 ### Special Thanks

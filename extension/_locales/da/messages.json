@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Oversæt"
+  },
+  "ext_description":{
+    "message":"Den søde og sjove oversætter, der lader dig nemt oversætte Cunny Code, mens du surfer på nettet."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Output"
+  },
+  "label_password":{
+    "message":"Adgangskode"
+  },
+  "btn_encode":{
+    "message":"Kod"
+  },
+  "btn_decode":{
+    "message":"Afkode"
+  },
+  "btn_swap":{
+    "message":"Skift input og output"
+  },
+  "btn_copy":{
+    "message":"Kopiér"
+  },
+  "btn_copy_success":{
+    "message":"Kopieret!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiering mislykkedes!"
+  },
+  "error_title":{
+    "message":"Fejl"
+  },
+  "error_body":{
+    "message":"Følgende kunne ikke kodes."
+  },
+  "footer_website":{
+    "message":"Cunny kode"
+  },
+  "footer_options":{
+    "message":"Udvidelsesindstillinger"
+  },
+  "footer_donate":{
+    "message":"Doner"
+  },
+  "title_options":{
+    "message":"Cunny Oversættelsesmuligheder"
+  },
+  "label_auto_translate":{
+    "message":"Automatisk oversættelse:"
+  },
+  "desc_auto_translate":{
+    "message":"Koder eller afkoder automatisk Cunny Code, når tekst indtastes i inputfeltet."
+  },
+  "label_auto_copy":{
+    "message":"Autokopiering:"
+  },
+  "desc_auto_copy":{
+    "message":"Kopiér og indsæt automatisk valgt tekst i inputfeltet, når du åbner pop op-vinduet."
+  },
+  "label_keep_password_state":{
+    "message":"Behold adgangskodestatus:"
+  },
+  "desc_keep_password_state":{
+    "message":"Holder afkrydsningsfeltet for adgangskode afkrydset eller afkrydset afhængigt af dine præferencer."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Hvis den er deaktiveret, er adgangskodeafkrydsningsfeltet som standard slået fra, hver gang du åbner pop op-vinduet.)"
+  },
+  "label_save_password":{
+    "message":"Gem adgangskode:"
+  },
+  "desc_save_password":{
+    "message":"Gemmer din seneste adgangskode, så du ikke behøver at indtaste den igen, når du krypterer eller dekrypterer."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Den gemte adgangskode slettes, når denne indstilling deaktiveres.)"
+  },
+  "label_context_menu":{
+    "message":"Vis i kontekstmenuen:"
+  },
+  "desc_context_menu":{
+    "message":"Viser Cunny Oversæt i kontekstmenuen, når du højreklikker, mens tekst er valgt."
+  },
+  "btn_reset":{
+    "message":"Nulstil"
+  },
+  "reset_prompt":{
+    "message":"Dette vil nulstille alle indstillingerne til deres standardindstillinger. Vil du fortsætte?"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Hjemmeside"
+  },
+  "arona_dialogue_1":{
+    "message":"Hej, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Du kan ændre mulighederne for Cunny Oversæt på denne side."
+  }
+}

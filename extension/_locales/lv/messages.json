@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Tulkotājs"
+  },
+  "ext_description":{
+    "message":"Jauks un smieklīgs tulkotājs, kas ļauj ērti iztulkot Cunny Code, kad pārlūkojat tīmekli."
+  },
+  "placeholder_input":{
+    "message":"Ievade"
+  },
+  "placeholder_output":{
+    "message":"Izvade"
+  },
+  "label_password":{
+    "message":"Parole"
+  },
+  "btn_encode":{
+    "message":"Kodēt"
+  },
+  "btn_decode":{
+    "message":"Atšifrēt"
+  },
+  "btn_swap":{
+    "message":"Apmainīt ievadi un izvadi"
+  },
+  "btn_copy":{
+    "message":"Kopēt"
+  },
+  "btn_copy_success":{
+    "message":"Nokopēts!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopēt neizdevās!"
+  },
+  "error_title":{
+    "message":"Kļūda"
+  },
+  "error_body":{
+    "message":"Tālāk norādīto nevarēja kodēt."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Paplašinājuma opcijas"
+  },
+  "footer_donate":{
+    "message":"Ziedot"
+  },
+  "title_options":{
+    "message":"Cunny Tulkotājs Options"
+  },
+  "label_auto_translate":{
+    "message":"Automātiski tulkot:"
+  },
+  "desc_auto_translate":{
+    "message":"Automātiski kodē vai dekodē Cunny Code, kad teksts tiek ievadīts ievades laukā."
+  },
+  "label_auto_copy":{
+    "message":"Automātiskā kopēšana:"
+  },
+  "desc_auto_copy":{
+    "message":"Atverot uznirstošo logu, automātiski kopējiet un ielīmējiet atlasīto tekstu ievades laukā."
+  },
+  "label_keep_password_state":{
+    "message":"Saglabāt paroles stāvokli:"
+  },
+  "desc_keep_password_state":{
+    "message":"Atkarībā no jūsu izvēles paroles izvēles rūtiņa paliek atzīmēta vai noņemta."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ja ir atspējota, paroles izvēles rūtiņa pēc noklusējuma tiek izslēgta katru reizi, kad atverat uznirstošo logu.)"
+  },
+  "label_save_password":{
+    "message":"Saglabāt paroli:"
+  },
+  "desc_save_password":{
+    "message":"Saglabā jaunāko paroli, lai šifrēšanas vai atšifrēšanas laikā tā nebūtu jāievada vēlreiz."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Atspējojot šo opciju, saglabātā parole tiek dzēsta.)"
+  },
+  "label_context_menu":{
+    "message":"Rādīt konteksta izvēlnē:"
+  },
+  "desc_context_menu":{
+    "message":"Rāda Cunny Tulkotājs konteksta izvēlnē ikreiz, kad ar peles labo pogu noklikšķiniet, kamēr teksts ir atlasīts."
+  },
+  "btn_reset":{
+    "message":"Atiestatīt"
+  },
+  "reset_prompt":{
+    "message":"Tas visas opcijas atiestatīs uz noklusējuma iestatījumiem. Vai vēlaties turpināt?"
+  },
+  "link_homepage":{
+    "message":"Cunny Code mājas lapa"
+  },
+  "arona_dialogue_1":{
+    "message":"Sveiks, Sensej!"
+  },
+  "arona_dialogue_2":{
+    "message":"Šajā lapā varat mainīt Cunny Tulkotājs opcijas."
+  }
+}

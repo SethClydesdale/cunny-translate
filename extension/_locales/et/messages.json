@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Translate"
+  },
+  "ext_description":{
+    "message":"Armas ja naljakas tõlkija, mis võimaldab teil veebi sirvides Cunny Code'i hõlpsalt tõlkida."
+  },
+  "placeholder_input":{
+    "message":"Sisend"
+  },
+  "placeholder_output":{
+    "message":"Väljund"
+  },
+  "label_password":{
+    "message":"Parool"
+  },
+  "btn_encode":{
+    "message":"Kodeeri"
+  },
+  "btn_decode":{
+    "message":"Dekodeerida"
+  },
+  "btn_swap":{
+    "message":"Vahetage sisend ja väljund"
+  },
+  "btn_copy":{
+    "message":"Kopeeri"
+  },
+  "btn_copy_success":{
+    "message":"Kopeeritud!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopeerimine ebaõnnestus!"
+  },
+  "error_title":{
+    "message":"Viga"
+  },
+  "error_body":{
+    "message":"Järgmist ei saanud kodeerida."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Laiendi valikud"
+  },
+  "footer_donate":{
+    "message":"Anneta"
+  },
+  "title_options":{
+    "message":"Cunny Translate Options"
+  },
+  "label_auto_translate":{
+    "message":"Automaatne tõlge:"
+  },
+  "desc_auto_translate":{
+    "message":"Kodeerib või dekodeerib Cunny Code'i automaatselt, kui tekst sisestatakse sisestusväljale."
+  },
+  "label_auto_copy":{
+    "message":"Automaatne kopeerimine:"
+  },
+  "desc_auto_copy":{
+    "message":"Kopeerige ja kleepige valitud tekst automaatselt sisestusväljale, kui avate hüpikakna."
+  },
+  "label_keep_password_state":{
+    "message":"Säilita parooli olek:"
+  },
+  "desc_keep_password_state":{
+    "message":"Hoiab parooli kasti märgistatuna või märkimata, olenevalt teie eelistusest."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Kui see on keelatud, on parooli märkeruut vaikimisi välja lülitatud iga kord, kui avate hüpikakna.)"
+  },
+  "label_save_password":{
+    "message":"Salvesta parool:"
+  },
+  "desc_save_password":{
+    "message":"Salvestab teie uusima parooli, et te ei peaks seda krüptimisel või dekrüpteerimisel uuesti sisestama."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Selle valiku keelamisel salvestatud parool kustutatakse.)"
+  },
+  "label_context_menu":{
+    "message":"Kuva kontekstimenüüs:"
+  },
+  "desc_context_menu":{
+    "message":"Kuvab kontekstimenüüs Cunny Translate'i alati, kui teete teksti valimise ajal paremklõpsu."
+  },
+  "btn_reset":{
+    "message":"Lähtesta"
+  },
+  "reset_prompt":{
+    "message":"See lähtestab kõik valikud vaikeseadetele. Kas soovite jätkata?"
+  },
+  "link_homepage":{
+    "message":"Cunny Code koduleht"
+  },
+  "arona_dialogue_1":{
+    "message":"Tere, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Sellel lehel saate muuta Cunny Translate'i valikuid."
+  }
+}

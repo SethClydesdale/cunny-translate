@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Prekladač Cunny"
+  },
+  "ext_description":{
+    "message":"Roztomilý a vtipný prekladač, ktorý vám umožní jednoducho prekladať Cunny Code pri prehliadaní webu."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Výstup"
+  },
+  "label_password":{
+    "message":"Heslo"
+  },
+  "btn_encode":{
+    "message":"Zakódovať"
+  },
+  "btn_decode":{
+    "message":"Dekódovať"
+  },
+  "btn_swap":{
+    "message":"Vymeňte vstup a výstup"
+  },
+  "btn_copy":{
+    "message":"Kopírovať"
+  },
+  "btn_copy_success":{
+    "message":"Skopírované!"
+  },
+  "btn_copy_fail":{
+    "message":"Skopírovanie zlyhalo!"
+  },
+  "error_title":{
+    "message":"Chyba"
+  },
+  "error_body":{
+    "message":"Nasledovné nebolo možné zakódovať."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Možnosti rozšírenia"
+  },
+  "footer_donate":{
+    "message":"Darovať"
+  },
+  "title_options":{
+    "message":"Možnosti Prekladač Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Automatický preklad:"
+  },
+  "desc_auto_translate":{
+    "message":"Automaticky zakóduje alebo dekóduje Cunnyho kód po zadaní textu do vstupného poľa."
+  },
+  "label_auto_copy":{
+    "message":"Automatické kopírovanie:"
+  },
+  "desc_auto_copy":{
+    "message":"Automaticky skopírujte a vložte vybraný text do vstupného poľa, keď otvoríte kontextové okno."
+  },
+  "label_keep_password_state":{
+    "message":"Zachovať stav hesla:"
+  },
+  "desc_keep_password_state":{
+    "message":"Ponechá začiarknuté alebo nezačiarknuté políčko hesla v závislosti od vašich preferencií."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ak je zakázané, začiarkavacie políčko hesla sa predvolene vypne pri každom otvorení kontextového okna.)"
+  },
+  "label_save_password":{
+    "message":"Uložiť heslo:"
+  },
+  "desc_save_password":{
+    "message":"Uloží vaše najnovšie heslo, aby ste ho nemuseli znova zadávať pri šifrovaní alebo dešifrovaní."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Uložené heslo sa po vypnutí tejto možnosti vymaže.)"
+  },
+  "label_context_menu":{
+    "message":"Zobraziť v kontextovej ponuke:"
+  },
+  "desc_context_menu":{
+    "message":"Zobrazí Prekladač Cunny v kontextovej ponuke vždy, keď kliknete pravým tlačidlom myši na vybratý text."
+  },
+  "btn_reset":{
+    "message":"Resetovať"
+  },
+  "reset_prompt":{
+    "message":"Týmto sa resetujú všetky možnosti na ich predvolené hodnoty. Chcete pokračovať?"
+  },
+  "link_homepage":{
+    "message":"Domovská stránka Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Ahoj, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Na tejto stránke môžete zmeniť možnosti pre Prekladač Cunny."
+  }
+}

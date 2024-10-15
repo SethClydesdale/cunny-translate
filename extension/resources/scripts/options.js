@@ -137,6 +137,20 @@
     };
   }
   
+  // password state handler
+  document.getElementById('keep_password_state').onchange = function () {
+    chrome.storage.sync.set({
+      keep_password_state : this.checked
+    });
+    
+    // returns password state to default if disabled
+    if (!this.checked) {
+      chrome.storage.sync.set({
+        password_state : false
+      });
+    }
+  };
+  
   // password setting handler
   document.getElementById('save_password').onchange = function () {
     chrome.storage.sync.set({
@@ -204,12 +218,16 @@
   document.getElementById('reset-settings').onclick = function () {
     if (!confirm(chrome.i18n.getMessage("reset_prompt") || "This will reset all of the options to their defaults. Do you want to continue?")) return false;
     
+    // save context state for later
+    var context = document.getElementById('context_menu'),
+        context_was_checked = context.checked;
+    
     // reset checkbox states
     document.getElementById('auto_translate').checked = true;
     document.getElementById('auto_copy').checked = true;
     document.getElementById('keep_password_state').checked = true;
     document.getElementById('save_password').checked = false;
-    document.getElementById('context_menu').checked = true;
+    context.checked = true;
     
     // update settings internally
     chrome.storage.sync.set({
@@ -226,12 +244,14 @@
       context_menu : true
     });
     
-    // create context menu item
-    chrome.contextMenus.create({
-      id : "cunny_translate",
-      title : chrome.i18n.getMessage("ext_name"),
-      contexts : ["selection"]
-    });
+    // create context menu item, but only if it was disabled
+    if (!context_was_checked) {
+      chrome.contextMenus.create({
+        id : "cunny_translate",
+        title : chrome.i18n.getMessage("ext_name"),
+        contexts : ["selection"]
+      });
+    }
   };
   
   

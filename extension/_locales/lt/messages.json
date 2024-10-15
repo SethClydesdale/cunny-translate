@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Vertėjas"
+  },
+  "ext_description":{
+    "message":"Mielas ir juokingas vertėjas, leidžiantis lengvai išversti Cunny Code naršant internete."
+  },
+  "placeholder_input":{
+    "message":"Įvestis"
+  },
+  "placeholder_output":{
+    "message":"Išvestis"
+  },
+  "label_password":{
+    "message":"Slaptažodis"
+  },
+  "btn_encode":{
+    "message":"Koduoti"
+  },
+  "btn_decode":{
+    "message":"Dekoduoti"
+  },
+  "btn_swap":{
+    "message":"Sukeisti įvestį ir išvestį"
+  },
+  "btn_copy":{
+    "message":"Kopijuoti"
+  },
+  "btn_copy_success":{
+    "message":"Nukopijuota!"
+  },
+  "btn_copy_fail":{
+    "message":"Nukopijuoti nepavyko!"
+  },
+  "error_title":{
+    "message":"Klaida"
+  },
+  "error_body":{
+    "message":"Nepavyko užkoduoti šių dalykų."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Plėtinio parinktys"
+  },
+  "footer_donate":{
+    "message":"Paaukoti"
+  },
+  "title_options":{
+    "message":"Cunny Vertėjas Options"
+  },
+  "label_auto_translate":{
+    "message":"Automatinis vertimas:"
+  },
+  "desc_auto_translate":{
+    "message":"Automatiškai užkoduoja arba iššifruoja Cunny Code, kai tekstas įvedamas į įvesties lauką."
+  },
+  "label_auto_copy":{
+    "message":"Automatinis kopijavimas:"
+  },
+  "desc_auto_copy":{
+    "message":"Automatiškai nukopijuokite ir įklijuokite pasirinktą tekstą į įvesties lauką, kai atidarote iššokantįjį langą."
+  },
+  "label_keep_password_state":{
+    "message":"Išsaugoti slaptažodžio būseną:"
+  },
+  "desc_keep_password_state":{
+    "message":"Priklausomai nuo jūsų pageidavimų, slaptažodžio žymės langelis lieka pažymėtas arba nepažymėtas."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Jei išjungta, slaptažodžio žymės langelis pagal nutylėjimą išjungiamas kiekvieną kartą, kai atidarote iššokantįjį langą.)"
+  },
+  "label_save_password":{
+    "message":"Išsaugoti slaptažodį:"
+  },
+  "desc_save_password":{
+    "message":"Išsaugo naujausią slaptažodį, kad jums nereikėtų jo įvesti dar kartą šifruojant ar iššifruojant."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Išsaugotas slaptažodis ištrinamas išjungus šią parinktį.)"
+  },
+  "label_context_menu":{
+    "message":"Rodyti kontekstiniame meniu:"
+  },
+  "desc_context_menu":{
+    "message":"Kontekstiniame meniu rodomas Cunny Vertėjas, kai dešiniuoju pelės mygtuku spustelėsite, kol pasirinktas tekstas."
+  },
+  "btn_reset":{
+    "message":"Reset"
+  },
+  "reset_prompt":{
+    "message":"Tai iš naujo nustatys visas parinktis į numatytuosius nustatymus. Ar norite tęsti?"
+  },
+  "link_homepage":{
+    "message":"Cunny Code pagrindinis puslapis"
+  },
+  "arona_dialogue_1":{
+    "message":"Sveikas, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Šiame puslapyje galite pakeisti Cunny Vertėjas parinktis."
+  }
+}

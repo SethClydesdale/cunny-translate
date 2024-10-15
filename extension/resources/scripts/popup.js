@@ -209,15 +209,18 @@
     password : {
       key : '',
       on : false,
+      keep_state : false,
 
       // toggles password mode
       toggle : function (caller) {
         Arona.password.on = caller.checked;
         
         // update password preference state
-        chrome.storage.sync.set({
-          password_state : caller.checked
-        });
+        if (Arona.password.keep_state) {
+          chrome.storage.sync.set({
+            password_state : caller.checked
+          });
+        }
         
         // auto encode/decode with the password, if set
         if (Arona.auto_translate) {
@@ -428,9 +431,8 @@
     }
     
     // auto encode/decode
-    // mixed encode
     if (Arona.auto_translate) {
-      Arona.determineMode(Arona.node.input.value, this); // determines whether to encode or decode
+      Arona.determineMode(Arona.node.input.value, this);
     }
   };
     
@@ -533,6 +535,8 @@
   // sets password state
   chrome.storage.sync.get('keep_password_state', function (data) {
     if (data.keep_password_state == true || data.keep_password_state == undefined) {
+      Arona.password.keep_state = true;
+      
       chrome.storage.sync.get('password_state', function (data) {
         var state = data.password_state !== undefined ? data.password_state : false;
         Arona.password.on = state

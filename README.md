@@ -2,7 +2,7 @@
 
 Cunny Translate is a cute and funny browser extension that lets you easily translate [Cunny Code](https://github.com/SethClydesdale/cunny-code?tab=readme-ov-file#what-is-cunny-code) while browsing the web. You can get it on the Chrome or Firefox extension stores via the links below.
 
-**Google Chrome:** Awaiting Approval
+**Google Chrome:** https://chromewebstore.google.com/detail/cunny-translate/phgoiaamiloblcdcfdihfgaklghcbmfe
 
 **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/cunny-translate/
 

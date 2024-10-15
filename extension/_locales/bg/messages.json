@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Преводач"
+  },
+  "ext_description":{
+    "message":"Сладкият и забавен преводач, който ви позволява лесно да превеждате Cunny Code, докато сърфирате в мрежата."
+  },
+  "placeholder_input":{
+    "message":"Въвеждане"
+  },
+  "placeholder_output":{
+    "message":"Изход"
+  },
+  "label_password":{
+    "message":"Парола"
+  },
+  "btn_encode":{
+    "message":"Кодиране"
+  },
+  "btn_decode":{
+    "message":"Декодиране"
+  },
+  "btn_swap":{
+    "message":"Разменете входа и изхода"
+  },
+  "btn_copy":{
+    "message":"Копиране"
+  },
+  "btn_copy_success":{
+    "message":"Копирано!"
+  },
+  "btn_copy_fail":{
+    "message":"Неуспешно копиране!"
+  },
+  "error_title":{
+    "message":"Грешка"
+  },
+  "error_body":{
+    "message":"Следното не може да бъде кодирано."
+  },
+  "footer_website":{
+    "message":"Куни код"
+  },
+  "footer_options":{
+    "message":"Опции за разширение"
+  },
+  "footer_donate":{
+    "message":"Дари"
+  },
+  "title_options":{
+    "message":"Опции за превод на Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Автоматичен превод:"
+  },
+  "desc_auto_translate":{
+    "message":"Автоматично кодира или декодира Cunny Code, когато текстът е въведен в полето за въвеждане."
+  },
+  "label_auto_copy":{
+    "message":"Автоматично копиране:"
+  },
+  "desc_auto_copy":{
+    "message":"Автоматично копиране и поставяне на избран текст в полето за въвеждане, когато отворите изскачащия прозорец."
+  },
+  "label_keep_password_state":{
+    "message":"Запазване на състоянието на паролата:"
+  },
+  "desc_keep_password_state":{
+    "message":"Поддържа квадратчето за парола отметнато или неотметнато в зависимост от вашите предпочитания."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ако е деактивирано, полето за отметка на паролата по подразбиране е изключено всеки път, когато отворите изскачащия прозорец.)"
+  },
+  "label_save_password":{
+    "message":"Запазване на паролата:"
+  },
+  "desc_save_password":{
+    "message":"Запазва последната ви парола, така че да не се налага да я въвеждате отново, когато криптирате или декриптирате."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Запазената парола се изтрива при деактивиране на тази опция.)"
+  },
+  "label_context_menu":{
+    "message":"Покажи в контекстното меню:"
+  },
+  "desc_context_menu":{
+    "message":"Показва Cunny Преводач в контекстното меню, когато щракнете с десния бутон, докато текстът е избран."
+  },
+  "btn_reset":{
+    "message":"Нулиране"
+  },
+  "reset_prompt":{
+    "message":"Това ще върне всички опции към техните настройки по подразбиране. Искате ли да продължите?"
+  },
+  "link_homepage":{
+    "message":"Начална страница на Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Здравей, Сенсей!"
+  },
+  "arona_dialogue_2":{
+    "message":"Можете да промените опциите за Cunny Преводач на тази страница."
+  }
+}

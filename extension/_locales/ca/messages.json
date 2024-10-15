@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Traductor de Cunny"
+  },
+  "ext_description":{
+    "message":"El traductor simpàtic i divertit que et permet traduir fàcilment Cunny Code mentre navegues per la web."
+  },
+  "placeholder_input":{
+    "message":"Entrada"
+  },
+  "placeholder_output":{
+    "message":"Sortida"
+  },
+  "label_password":{
+    "message":"Contrasenya"
+  },
+  "btn_encode":{
+    "message":"Codificar"
+  },
+  "btn_decode":{
+    "message":"Descodificar"
+  },
+  "btn_swap":{
+    "message":"Canviar l'entrada i la sortida"
+  },
+  "btn_copy":{
+    "message":"Còpia"
+  },
+  "btn_copy_success":{
+    "message":"S'ha copiat!"
+  },
+  "btn_copy_fail":{
+    "message":"S'ha produït un error en copiar!"
+  },
+  "error_title":{
+    "message":"Error"
+  },
+  "error_body":{
+    "message":"El següent no s'ha pogut codificar."
+  },
+  "footer_website":{
+    "message":"Codi Cunny"
+  },
+  "footer_options":{
+    "message":"Opcions d'extensió"
+  },
+  "footer_donate":{
+    "message":"Fes una donació"
+  },
+  "title_options":{
+    "message":"Opcions de Traductor de Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Traducció automàtica:"
+  },
+  "desc_auto_translate":{
+    "message":"Codifica o descodifica automàticament el codi Cunny quan s'introdueix text al camp d'entrada."
+  },
+  "label_auto_copy":{
+    "message":"Còpia automàtica:"
+  },
+  "desc_auto_copy":{
+    "message":"Copieu i enganxeu automàticament el text seleccionat al camp d'entrada quan obriu la finestra emergent."
+  },
+  "label_keep_password_state":{
+    "message":"Conserva l'estat de la contrasenya:"
+  },
+  "desc_keep_password_state":{
+    "message":"Manté la casella de selecció de la contrasenya marcada o desmarcada segons les vostres preferències."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Si està desactivada, la casella de selecció de la contrasenya està desactivada per defecte cada vegada que obriu la finestra emergent.)"
+  },
+  "label_save_password":{
+    "message":"Desa la contrasenya:"
+  },
+  "desc_save_password":{
+    "message":"Desa la contrasenya més recent perquè no l'hagis d'escriure de nou en xifrar o desxifrar."
+  },
+  "desc_save_password_subtext":{
+    "message":"(La contrasenya desada s'elimina en desactivar aquesta opció.)"
+  },
+  "label_context_menu":{
+    "message":"Mostra al menú contextual:"
+  },
+  "desc_context_menu":{
+    "message":"Mostra Traductor de Cunny al menú contextual sempre que feu clic amb el botó dret mentre el text està seleccionat."
+  },
+  "btn_reset":{
+    "message":"Restablir"
+  },
+  "reset_prompt":{
+    "message":"Això restablirà totes les opcions als seus valors predeterminats. Voleu continuar?"
+  },
+  "link_homepage":{
+    "message":"Pàgina d'inici del codi Cunny"
+  },
+  "arona_dialogue_1":{
+    "message":"Hola, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Pots canviar les opcions de Traductor de Cunny en aquesta pàgina."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Traducere"
+  },
+  "ext_description":{
+    "message":"Traducătorul drăguț și amuzant care vă permite să traduceți cu ușurință Cunny Code în timp ce navigați pe web."
+  },
+  "placeholder_input":{
+    "message":"Intrare"
+  },
+  "placeholder_output":{
+    "message":"Ieșire"
+  },
+  "label_password":{
+    "message":"Parola"
+  },
+  "btn_encode":{
+    "message":"Codificare"
+  },
+  "btn_decode":{
+    "message":"Decodare"
+  },
+  "btn_swap":{
+    "message":"Schimbați intrarea și ieșirea"
+  },
+  "btn_copy":{
+    "message":"Copiați"
+  },
+  "btn_copy_success":{
+    "message":"Copiat!"
+  },
+  "btn_copy_fail":{
+    "message":"Copiarea eșuată!"
+  },
+  "error_title":{
+    "message":"Eroare"
+  },
+  "error_body":{
+    "message":"Urmtoarele nu au putut fi codificate."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Opțiuni de extensie"
+  },
+  "footer_donate":{
+    "message":"Donează"
+  },
+  "title_options":{
+    "message":"Opțiuni de Traducere Cunny"
+  },
+  "label_auto_translate":{
+    "message":"Traducere automată:"
+  },
+  "desc_auto_translate":{
+    "message":"Codifică sau decodifică automat Cunny Code atunci când textul este introdus în câmpul de introducere."
+  },
+  "label_auto_copy":{
+    "message":"Copiere automată:"
+  },
+  "desc_auto_copy":{
+    "message":"Copiați și inserați automat textul selectat în câmpul de introducere când deschideți fereastra pop-up."
+  },
+  "label_keep_password_state":{
+    "message":"Păstrează starea parolei:"
+  },
+  "desc_keep_password_state":{
+    "message":"Păstrează caseta de selectare a parolei bifată sau debifată, în funcție de preferințele dvs.."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Dacă este dezactivată, caseta de selectare a parolei este dezactivată implicit de fiecare dată când deschideți fereastra pop-up.)"
+  },
+  "label_save_password":{
+    "message":"Salvați parola:"
+  },
+  "desc_save_password":{
+    "message":"Salvează cea mai recentă parolă, astfel încât să nu fie nevoie să o tastați din nou când criptați sau decriptați."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Parola salvată este ștearsă la dezactivarea acestei opțiuni.)"
+  },
+  "label_context_menu":{
+    "message":"Afișați în meniul contextual:"
+  },
+  "desc_context_menu":{
+    "message":"Afișează Cunny Traducere în meniul contextual ori de câte ori dați clic dreapta în timp ce textul este selectat."
+  },
+  "btn_reset":{
+    "message":"Resetare"
+  },
+  "reset_prompt":{
+    "message":"Acest lucru va reseta toate opțiunile la valorile implicite. Doriți să continuați?"
+  },
+  "link_homepage":{
+    "message":"Pagina de pornire a codului Cunny"
+  },
+  "arona_dialogue_1":{
+    "message":"Bună, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Puteți modifica opțiunile pentru Cunny Traducere pe această pagină."
+  }
+}

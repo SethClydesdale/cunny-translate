@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Prevajalnik"
+  },
+  "ext_description":{
+    "message":"Prikupen in smešen prevajalnik, ki vam omogoča enostavno prevajanje Cunny Code med brskanjem po spletu."
+  },
+  "placeholder_input":{
+    "message":"Vnos"
+  },
+  "placeholder_output":{
+    "message":"Izhod"
+  },
+  "label_password":{
+    "message":"Geslo"
+  },
+  "btn_encode":{
+    "message":"Kodiraj"
+  },
+  "btn_decode":{
+    "message":"Dešifriraj"
+  },
+  "btn_swap":{
+    "message":"Zamenjaj vhod in izhod"
+  },
+  "btn_copy":{
+    "message":"Kopiraj"
+  },
+  "btn_copy_success":{
+    "message":"Kopirano!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiranje ni uspelo!"
+  },
+  "error_title":{
+    "message":"Napaka"
+  },
+  "error_body":{
+    "message":"Naslednjega ni bilo mogoče kodirati."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Možnosti razširitve"
+  },
+  "footer_donate":{
+    "message":"Doniraj"
+  },
+  "title_options":{
+    "message":"Možnosti Cunny Prevajalnik"
+  },
+  "label_auto_translate":{
+    "message":"Samodejno prevajanje:"
+  },
+  "desc_auto_translate":{
+    "message":"Samodejno kodira ali dekodira Cunny Code, ko je besedilo vneseno v polje za vnos."
+  },
+  "label_auto_copy":{
+    "message":"Samodejno kopiraj:"
+  },
+  "desc_auto_copy":{
+    "message":"Samodejno kopiraj in prilepi izbrano besedilo v vnosno polje, ko odpreš pojavno okno."
+  },
+  "label_keep_password_state":{
+    "message":"Ohrani stanje gesla:"
+  },
+  "desc_keep_password_state":{
+    "message":"Ohranja potrditveno polje gesla označeno ali nepotrjeno, odvisno od vaših želja."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Če je onemogočeno, je potrditveno polje za geslo privzeto izklopljeno vsakič, ko odprete pojavno okno.)"
+  },
+  "label_save_password":{
+    "message":"Shrani geslo:"
+  },
+  "desc_save_password":{
+    "message":"Shrani vaše zadnje geslo, tako da vam ga ni treba znova vnašati pri šifriranju ali dešifriranju."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Shranjeno geslo se izbriše, ko onemogočite to možnost.)"
+  },
+  "label_context_menu":{
+    "message":"Prikaži v kontekstnem meniju:"
+  },
+  "desc_context_menu":{
+    "message":"Prikaže Cunny Prevajalnik v kontekstnem meniju, ko z desno miškino tipko kliknete, medtem ko je besedilo izbrano."
+  },
+  "btn_reset":{
+    "message":"Ponastavi"
+  },
+  "reset_prompt":{
+    "message":"To bo ponastavilo vse možnosti na privzete vrednosti. Ali želite nadaljevati?"
+  },
+  "link_homepage":{
+    "message":"Domača stran Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Pozdravljen, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Možnosti za Cunny Prevajalnik lahko spremenite na tej strani."
+  }
+}

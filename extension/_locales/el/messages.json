@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Μετάφραση Cunny"
+  },
+  "ext_description":{
+    "message":"Ο χαριτωμένος και αστείος μεταφραστής που σας επιτρέπει να μεταφράζετε εύκολα τον Cunny Code καθώς περιηγείστε στον Ιστό."
+  },
+  "placeholder_input":{
+    "message":"Input"
+  },
+  "placeholder_output":{
+    "message":"Έξοδος"
+  },
+  "label_password":{
+    "message":"Password"
+  },
+  "btn_encode":{
+    "message":"Ecode"
+  },
+  "btn_decode":{
+    "message":"Αποκωδικοποίηση"
+  },
+  "btn_swap":{
+    "message":"Εναλλάξτε την είσοδο και την έξοδο"
+  },
+  "btn_copy":{
+    "message":"Αντιγραφή"
+  },
+  "btn_copy_success":{
+    "message":"Αντιγράφηκε!"
+  },
+  "btn_copy_fail":{
+    "message":"Αποτυχία αντιγραφής!"
+  },
+  "error_title":{
+    "message":"Σφάλμα"
+  },
+  "error_body":{
+    "message":"Δεν ήταν δυνατή η κωδικοποίηση των παρακάτω."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Επιλογές επέκτασης"
+  },
+  "footer_donate":{
+    "message":"Δωρεά"
+  },
+  "title_options":{
+    "message":"Μετάφραση Cunny Options"
+  },
+  "label_auto_translate":{
+    "message":"Αυτόματη μετάφραση:"
+  },
+  "desc_auto_translate":{
+    "message":"Κωδικοποιεί ή αποκωδικοποιεί αυτόματα τον Cunny Code όταν εισάγεται κείμενο στο πεδίο εισαγωγής."
+  },
+  "label_auto_copy":{
+    "message":"Αυτόματη αντιγραφή:"
+  },
+  "desc_auto_copy":{
+    "message":"Αυτόματη αντιγραφή και επικόλληση επιλεγμένου κειμένου στο πεδίο εισαγωγής όταν ανοίγετε το αναδυόμενο παράθυρο."
+  },
+  "label_keep_password_state":{
+    "message":"Διατήρηση κατάστασης κωδικού πρόσβασης:"
+  },
+  "desc_keep_password_state":{
+    "message":"Διατηρεί το πλαίσιο ελέγχου κωδικού πρόσβασης επιλεγμένο ή μη, ανάλογα με τις προτιμήσεις σας."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Εάν είναι απενεργοποιημένο, το πλαίσιο ελέγχου κωδικού πρόσβασης απενεργοποιείται από προεπιλογή κάθε φορά που ανοίγετε το αναδυόμενο παράθυρο.)"
+  },
+  "label_save_password":{
+    "message":"Αποθήκευση κωδικού πρόσβασης:"
+  },
+  "desc_save_password":{
+    "message":"Αποθηκεύει τον πιο πρόσφατο κωδικό πρόσβασής σας, ώστε να μην χρειάζεται να τον πληκτρολογήσετε ξανά κατά την κρυπτογράφηση ή την αποκρυπτογράφηση."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Ο αποθηκευμένος κωδικός πρόσβασης διαγράφεται μετά την απενεργοποίηση αυτής της επιλογής.)"
+  },
+  "label_context_menu":{
+    "message":"Εμφάνιση στο μενού περιβάλλοντος:"
+  },
+  "desc_context_menu":{
+    "message":"Εμφανίζει το Μετάφραση Cunny στο μενού περιβάλλοντος όποτε κάνετε δεξί κλικ ενώ είναι επιλεγμένο κείμενο."
+  },
+  "btn_reset":{
+    "message":"Reset"
+  },
+  "reset_prompt":{
+    "message":"Αυτό θα επαναφέρει όλες τις επιλογές στις προεπιλογές τους. Θέλετε να συνεχίσετε;"
+  },
+  "link_homepage":{
+    "message":"Cunny Code Homepage"
+  },
+  "arona_dialogue_1":{
+    "message":"Γεια σου, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Μπορείτε να αλλάξετε τις επιλογές για το Μετάφραση Cunny σε αυτήν τη σελίδα."
+  }
+}

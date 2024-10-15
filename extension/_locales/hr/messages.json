@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Prevoditelj"
+  },
+  "ext_description":{
+    "message":"Slatki i smiješni prevoditelj koji vam omogućuje jednostavno prevođenje Cunny Code dok pregledavate web."
+  },
+  "placeholder_input":{
+    "message":"unos"
+  },
+  "placeholder_output":{
+    "message":"Izlaz"
+  },
+  "label_password":{
+    "message":"lozinka"
+  },
+  "btn_encode":{
+    "message":"Kodiraj"
+  },
+  "btn_decode":{
+    "message":"Dešifriraj"
+  },
+  "btn_swap":{
+    "message":"Zamijeni ulaz i izlaz"
+  },
+  "btn_copy":{
+    "message":"Kopiraj"
+  },
+  "btn_copy_success":{
+    "message":"Kopirano!"
+  },
+  "btn_copy_fail":{
+    "message":"Kopiranje nije uspjelo!"
+  },
+  "error_title":{
+    "message":"Greška"
+  },
+  "error_body":{
+    "message":"Sljedeće nije bilo moguće kodirati."
+  },
+  "footer_website":{
+    "message":"Lukavi kod"
+  },
+  "footer_options":{
+    "message":"Opcije proširenja"
+  },
+  "footer_donate":{
+    "message":"Doniraj"
+  },
+  "title_options":{
+    "message":"Cunny Prevoditelj Opcije"
+  },
+  "label_auto_translate":{
+    "message":"Automatski prijevod:"
+  },
+  "desc_auto_translate":{
+    "message":"Automatski kodira ili dekodira Cunny Code kada se tekst unese u polje za unos."
+  },
+  "label_auto_copy":{
+    "message":"Automatsko kopiranje:"
+  },
+  "desc_auto_copy":{
+    "message":"Automatski kopirajte i zalijepite odabrani tekst u polje za unos kada otvorite skočni prozor."
+  },
+  "label_keep_password_state":{
+    "message":"Zadrži stanje lozinke:"
+  },
+  "desc_keep_password_state":{
+    "message":"Održava potvrdni okvir lozinke označenim ili neoznačenim ovisno o vašim željama."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ako je onemogućeno, potvrdni okvir lozinke prema zadanim je postavkama isključen svaki put kada otvorite skočni prozor.)"
+  },
+  "label_save_password":{
+    "message":"Spremi lozinku:"
+  },
+  "desc_save_password":{
+    "message":"Sprema vašu najnoviju lozinku tako da je ne morate ponovno upisivati ​​prilikom šifriranja ili dešifriranja."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Spremljena lozinka se briše nakon isključivanja ove opcije.)"
+  },
+  "label_context_menu":{
+    "message":"Prikaži u kontekstnom izborniku:"
+  },
+  "desc_context_menu":{
+    "message":"Prikazuje Cunny Prevoditelj u kontekstnom izborniku kad god kliknete desnom tipkom dok je tekst odabran."
+  },
+  "btn_reset":{
+    "message":"Poništi"
+  },
+  "reset_prompt":{
+    "message":"Ovo će vratiti sve opcije na zadane vrijednosti. Želite li nastaviti?"
+  },
+  "link_homepage":{
+    "message":"Cunny Code početna stranica"
+  },
+  "arona_dialogue_1":{
+    "message":"Zdravo, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Možete promijeniti opcije za Cunny Prevoditelj na ovoj stranici."
+  }
+}

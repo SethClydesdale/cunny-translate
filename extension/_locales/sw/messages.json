@@ -1,0 +1,104 @@
+{
+  "ext_name":{
+    "message":"Cunny Tafsiri"
+  },
+  "ext_description":{
+    "message":"Mfasiri mzuri na mcheshi anayekuruhusu kutafsiri kwa urahisi Cunny Code unapovinjari wavuti."
+  },
+  "input_placeholder":{
+    "message":"Ingizo"
+  },
+  "placeholder_output":{
+    "message":"Pato"
+  },
+  "label_password":{
+    "message":"Nenosiri"
+  },
+  "btn_encode":{
+    "message":"Encode"
+  },
+  "btn_decode":{
+    "message":"Simbua"
+  },
+  "btn_swap":{
+    "message":"Badilisha ingizo na pato"
+  },
+  "btn_copy":{
+    "message":"Copy"
+  },
+  "btn_copy_success":{
+    "message":"Imenakiliwa!"
+  },
+  "btn_copy_fail":{
+    "message":"Imenakiliwa Imeshindwa!"
+  },
+  "error_title":{
+    "message":"Hitilafu"
+  },
+  "error_body":{
+    "message":"Ifuatayo haikuweza kusimba."
+  },
+  "footer_website":{
+    "message":"Cunny Code"
+  },
+  "footer_options":{
+    "message":"Chaguo za Kiendelezi"
+  },
+  "footer_donate":{
+    "message":"Changia"
+  },
+  "title_options":{
+    "message":"Chaguo za Cunny Tafsiri"
+  },
+  "label_auto_translate":{
+    "message":"Tafsiri kiotomatiki:"
+  },
+  "desc_auto_translate":{
+    "message":"Husimba au kusimbua Cunny Code kiotomatiki wakati maandishi yanapoingizwa kwenye sehemu ya ingizo."
+  },
+  "label_auto_copy":{
+    "message":"Nakili otomatiki:"
+  },
+  "desc_auto_copy":{
+    "message":"Nakili na ubandike kiotomatiki maandishi yaliyochaguliwa kwenye sehemu ya ingizo unapofungua dirisha ibukizi."
+  },
+  "label_keep_password_state":{
+    "message":"Weka hali ya nenosiri:"
+  },
+  "desc_keep_password_state":{
+    "message":"Huweka kisanduku cha kuteua cha nenosiri kikiwa na tiki au hakijawekwa alama kulingana na upendeleo wako."
+  },
+  "desc_keep_password_state_subtext":{
+    "message":"(Ikiwa imezimwa, kisanduku cha kuteua cha nenosiri huzimwa kila wakati unapofungua dirisha ibukizi.)"
+  },
+  "label_save_password":{
+    "message":"Hifadhi nenosiri:"
+  },
+  "desc_save_password":{
+    "message":"Huhifadhi nenosiri lako la hivi majuzi zaidi ili usilazimike kuliandika tena wakati wa kusimba au kusimbua."
+  },
+  "desc_save_password_subtext":{
+    "message":"(Nenosiri lililohifadhiwa linafutwa unapozima chaguo hili.)"
+  },
+  "label_context_menu":{
+    "message":"Onyesha katika menyu ya muktadha:"
+  },
+  "desc_context_menu":{
+    "message":"Inaonyesha Tafsiri ya Kijanja katika menyu ya muktadha wakati wowote unapobofya kulia wakati maandishi yanachaguliwa."
+  },
+  "btn_reset":{
+    "message":"Weka upya"
+  },
+  "reset_prompt":{
+    "message":"Hii itaweka upya chaguo zote kwa chaguomsingi zao. Je, ungependa kuendelea?"
+  },
+  "link_homepage":{
+    "message":"Ukurasa wa Nyumbani wa Cunny Code"
+  },
+  "arona_dialogue_1":{
+    "message":"Hujambo, Sensei!"
+  },
+  "arona_dialogue_2":{
+    "message":"Unaweza kubadilisha chaguo za Cunny Tafsiri kwenye ukurasa huu."
+  }
+}

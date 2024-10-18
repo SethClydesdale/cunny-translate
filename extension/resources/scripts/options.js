@@ -81,7 +81,7 @@
     
     // audio files for arona's voice module
     voice : {
-      heeheehee : new Audio('resources/audio/heeheehee.ogg')
+      heeheehee : document.getElementById('arona_heeheehee')
     },
     
     // make arona speak (audibly)

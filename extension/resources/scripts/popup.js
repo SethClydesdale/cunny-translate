@@ -433,6 +433,9 @@
     // auto encode/decode
     if (Arona.auto_translate) {
       Arona.determineMode(Arona.node.input.value, this);
+      
+      // empties output if no input value
+      if (!Arona.node.input.value) Arona.node.output.value = '';
     }
   };
     
